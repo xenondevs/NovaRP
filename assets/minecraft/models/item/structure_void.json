@@ -1,0 +1,115 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/structure_void"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "block/nova/quarry"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10000
+        },
+        "model": "item/nova/progress/0"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10001
+        },
+        "model": "item/nova/progress/1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10002
+        },
+        "model": "item/nova/progress/2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10003
+        },
+        "model": "item/nova/progress/3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10004
+        },
+        "model": "item/nova/progress/4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10005
+        },
+        "model": "item/nova/progress/5"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10006
+        },
+        "model": "item/nova/progress/6"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10007
+        },
+        "model": "item/nova/progress/7"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10008
+        },
+        "model": "item/nova/progress/8"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10009
+        },
+        "model": "item/nova/progress/9"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10010
+        },
+        "model": "item/nova/progress/10"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10011
+        },
+        "model": "item/nova/progress/11"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10012
+        },
+        "model": "item/nova/progress/12"
+      },      {
+        "predicate": {
+          "custom_model_data": 10013
+        },
+        "model": "item/nova/progress/13"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10014
+        },
+        "model": "item/nova/progress/14"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10015
+        },
+        "model": "item/nova/progress/15"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10016
+        },
+        "model": "item/nova/progress/16"
+      }
+    ]
+  }

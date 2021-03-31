@@ -1,0 +1,404 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "block/poppy"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000000
+      },
+      "model": "item/icon/inventory_part"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000001
+      },
+      "model": "item/icon/arrow_1_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000002
+      },
+      "model": "item/icon/arrow_1_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000003
+      },
+      "model": "item/icon/arrow_1_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000004
+      },
+      "model": "item/icon/arrow_1_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000005
+      },
+      "model": "item/icon/light_arrow_1_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000006
+      },
+      "model": "item/icon/light_arrow_1_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000007
+      },
+      "model": "item/icon/light_arrow_1_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000008
+      },
+      "model": "item/icon/light_arrow_1_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000009
+      },
+      "model": "item/icon/arrow_2_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000010
+      },
+      "model": "item/icon/arrow_2_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000011
+      },
+      "model": "item/icon/arrow_2_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000012
+      },
+      "model": "item/icon/arrow_2_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000013
+      },
+      "model": "item/icon/light_arrow_2_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000014
+      },
+      "model": "item/icon/light_arrow_2_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000015
+      },
+      "model": "item/icon/light_arrow_2_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000016
+      },
+      "model": "item/icon/light_arrow_2_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000017
+      },
+      "model": "item/icon/horizontal_line"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000018
+      },
+      "model": "item/icon/vertical_line"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000019
+      },
+      "model": "item/icon/light_horizontal_line"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000020
+      },
+      "model": "item/icon/light_vertical_line"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000021
+      },
+      "model": "item/icon/corner_top_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000022
+      },
+      "model": "item/icon/corner_top_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000023
+      },
+      "model": "item/icon/corner_bottom_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000024
+      },
+      "model": "item/icon/corner_bottom_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000025
+      },
+      "model": "item/icon/light_corner_top_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000026
+      },
+      "model": "item/icon/light_corner_top_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000027
+      },
+      "model": "item/icon/light_corner_bottom_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000028
+      },
+      "model": "item/icon/light_corner_bottom_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000029
+      },
+      "model": "item/icon/horizontal_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000030
+      },
+      "model": "item/icon/horizontal_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000031
+      },
+      "model": "item/icon/vertical_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000032
+      },
+      "model": "item/icon/vertical_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000033
+      },
+      "model": "item/icon/light_horizontal_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000034
+      },
+      "model": "item/icon/light_horizontal_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000035
+      },
+      "model": "item/icon/light_vertical_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000036
+      },
+      "model": "item/icon/light_vertical_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000037
+      },
+      "model": "item/icon/vertical_horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000038
+      },
+      "model": "item/icon/light_vertical_horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000039
+      },
+      "model": "item/icon/x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000040
+      },
+      "model": "item/icon/light_x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000041
+      },
+      "model": "item/icon/red_x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000042
+      },
+      "model": "item/icon/checkmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000043
+      },
+      "model": "item/icon/light_checkmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000044
+      },
+      "model": "item/icon/green_checkmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000045
+      },
+      "model": "item/icon/anvil_overlay_plus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000046
+      },
+      "model": "item/icon/anvil_overlay_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000047
+      },
+      "model": "item/icon/anvil_overlay_arrow_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000048
+      },
+      "model": "item/icon/lens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000049
+      },
+      "model": "item/icon/light_lens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000050
+      },
+      "model": "item/icon/checkbox"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000051
+      },
+      "model": "item/icon/checkbox_checked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000052
+      },
+      "model": "item/icon/light_checkbox"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000053
+      },
+      "model": "item/icon/light_checkbox_checked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000054
+      },
+      "model": "item/icon/horizontal_dots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000055
+      },
+      "model": "item/icon/light_horizontal_dots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000056
+      },
+      "model": "item/icon/vertical_dots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000057
+      },
+      "model": "item/icon/light_vertical_dots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000058
+      },
+      "model": "item/icon/circle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000059
+      },
+      "model": "item/icon/light_circle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000060
+      },
+      "model": "item/icon/box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000061
+      },
+      "model": "item/icon/light_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000062
+      },
+      "model": "item/icon/refresh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000063
+      },
+      "model": "item/icon/light_refresh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000064
+      },
+      "model": "item/icon/refresh_animated"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000065
+      },
+      "model": "item/icon/light_refresh_animated"
+    }
+  ]
+}

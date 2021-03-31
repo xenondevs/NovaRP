@@ -1,0 +1,6 @@
+{
+    "parent": "item/icon/template",
+    "textures": {
+      "1": "item/checkmark"
+    }
+}

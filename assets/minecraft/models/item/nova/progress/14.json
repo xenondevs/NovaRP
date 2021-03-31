@@ -1,0 +1,6 @@
+{
+    "parent": "item/nova/icon_template",
+	"textures": {
+		"1": "item/nova/progress/14"
+	}
+}
