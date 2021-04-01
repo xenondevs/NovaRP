@@ -12,6 +12,12 @@
       },
       {
         "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "nova:block/coal_generator"
+      },
+      {
+        "predicate": {
           "custom_model_data": 5000
         },
         "model": "nova:block/cable/middle"
