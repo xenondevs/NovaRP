@@ -6,9 +6,33 @@
     "overrides": [
       {
         "predicate": {
-          "custom_model_data": 1
+          "custom_model_data": 0
         },
-        "model": "nova:block/coal_generator"
+        "model": "nova:empty"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5000
+        },
+        "model": "nova:block/cable/middle"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5001
+        },
+        "model": "nova:block/cable/horizontal"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5002
+        },
+        "model": "nova:block/cable/down"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5003
+        },
+        "model": "nova:block/cable/up"
       },
       {
         "predicate": {

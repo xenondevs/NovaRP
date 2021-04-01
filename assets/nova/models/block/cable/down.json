@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "nova:block_base",
+	"textures": {
+		"0": "nova:block/cable"
+	},
+	"elements": [
+		{
+			"from": [6.75, 0, 6.75],
+			"to": [9.25, 8, 9.25],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 4], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 4], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 4], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 0, 12, 4], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}
