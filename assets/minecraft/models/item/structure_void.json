@@ -218,103 +218,307 @@
         "predicate": {
           "custom_model_data": 10200
         },
-        "model": "nova:item/energy_bar/0"
+        "model": "nova:item/bar_red/0"
       },
       {
         "predicate": {
           "custom_model_data": 10201
         },
-        "model": "nova:item/energy_bar/1"
+        "model": "nova:item/bar_red/1"
       },
       {
         "predicate": {
           "custom_model_data": 10202
         },
-        "model": "nova:item/energy_bar/2"
+        "model": "nova:item/bar_red/2"
       },
       {
         "predicate": {
           "custom_model_data": 10203
         },
-        "model": "nova:item/energy_bar/3"
+        "model": "nova:item/bar_red/3"
       },
       {
         "predicate": {
           "custom_model_data": 10204
         },
-        "model": "nova:item/energy_bar/4"
+        "model": "nova:item/bar_red/4"
       },
       {
         "predicate": {
           "custom_model_data": 10205
         },
-        "model": "nova:item/energy_bar/5"
+        "model": "nova:item/bar_red/5"
       },
       {
         "predicate": {
           "custom_model_data": 10206
         },
-        "model": "nova:item/energy_bar/6"
+        "model": "nova:item/bar_red/6"
       },
       {
         "predicate": {
           "custom_model_data": 10207
         },
-        "model": "nova:item/energy_bar/7"
+        "model": "nova:item/bar_red/7"
       },
       {
         "predicate": {
           "custom_model_data": 10208
         },
-        "model": "nova:item/energy_bar/8"
+        "model": "nova:item/bar_red/8"
       },
       {
         "predicate": {
           "custom_model_data": 10209
         },
-        "model": "nova:item/energy_bar/9"
+        "model": "nova:item/bar_red/9"
       },
       {
         "predicate": {
           "custom_model_data": 10210
         },
-        "model": "nova:item/energy_bar/10"
+        "model": "nova:item/bar_red/10"
       },
       {
         "predicate": {
           "custom_model_data": 10211
         },
-        "model": "nova:item/energy_bar/11"
+        "model": "nova:item/bar_red/11"
       },
       {
         "predicate": {
           "custom_model_data": 10212
         },
-        "model": "nova:item/energy_bar/12"
+        "model": "nova:item/bar_red/12"
       },
       {
         "predicate": {
           "custom_model_data": 10213
         },
-        "model": "nova:item/energy_bar/13"
+        "model": "nova:item/bar_red/13"
       },
       {
         "predicate": {
           "custom_model_data": 10214
         },
-        "model": "nova:item/energy_bar/14"
+        "model": "nova:item/bar_red/14"
       },
       {
         "predicate": {
           "custom_model_data": 10215
         },
-        "model": "nova:item/energy_bar/15"
+        "model": "nova:item/bar_red/15"
       },
       {
         "predicate": {
           "custom_model_data": 10216
         },
-        "model": "nova:item/energy_bar/16"
+        "model": "nova:item/bar_red/16"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10300
+        },
+        "model": "nova:item/bar_green/0"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10301
+        },
+        "model": "nova:item/bar_green/1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10302
+        },
+        "model": "nova:item/bar_green/2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10303
+        },
+        "model": "nova:item/bar_green/3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10304
+        },
+        "model": "nova:item/bar_green/4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10305
+        },
+        "model": "nova:item/bar_green/5"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10306
+        },
+        "model": "nova:item/bar_green/6"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10307
+        },
+        "model": "nova:item/bar_green/7"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10308
+        },
+        "model": "nova:item/bar_green/8"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10309
+        },
+        "model": "nova:item/bar_green/9"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10310
+        },
+        "model": "nova:item/bar_green/10"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10311
+        },
+        "model": "nova:item/bar_green/11"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10312
+        },
+        "model": "nova:item/bar_green/12"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10313
+        },
+        "model": "nova:item/bar_green/13"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10314
+        },
+        "model": "nova:item/bar_green/14"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10315
+        },
+        "model": "nova:item/bar_green/15"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10316
+        },
+        "model": "nova:item/bar_green/16"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10400
+        },
+        "model": "nova:item/bar_blue/0"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10401
+        },
+        "model": "nova:item/bar_blue/1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10402
+        },
+        "model": "nova:item/bar_blue/2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10403
+        },
+        "model": "nova:item/bar_blue/3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10404
+        },
+        "model": "nova:item/bar_blue/4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10405
+        },
+        "model": "nova:item/bar_blue/5"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10406
+        },
+        "model": "nova:item/bar_blue/6"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10407
+        },
+        "model": "nova:item/bar_blue/7"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10408
+        },
+        "model": "nova:item/bar_blue/8"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10409
+        },
+        "model": "nova:item/bar_blue/9"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10410
+        },
+        "model": "nova:item/bar_blue/10"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10411
+        },
+        "model": "nova:item/bar_blue/11"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10412
+        },
+        "model": "nova:item/bar_blue/12"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10413
+        },
+        "model": "nova:item/bar_blue/13"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10414
+        },
+        "model": "nova:item/bar_blue/14"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10415
+        },
+        "model": "nova:item/bar_blue/15"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10416
+        },
+        "model": "nova:item/bar_blue/16"
       }
     ]
   }
