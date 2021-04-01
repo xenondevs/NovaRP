@@ -8,108 +8,211 @@
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "block/nova/coal_generator"
+        "model": "nova:block/coal_generator"
       },
       {
         "predicate": {
           "custom_model_data": 10000
         },
-        "model": "item/nova/progress/0"
+        "model": "nova:item/progress/0"
       },
       {
         "predicate": {
           "custom_model_data": 10001
         },
-        "model": "item/nova/progress/1"
+        "model": "nova:item/progress/1"
       },
       {
         "predicate": {
           "custom_model_data": 10002
         },
-        "model": "item/nova/progress/2"
+        "model": "nova:item/progress/2"
       },
       {
         "predicate": {
           "custom_model_data": 10003
         },
-        "model": "item/nova/progress/3"
+        "model": "nova:item/progress/3"
       },
       {
         "predicate": {
           "custom_model_data": 10004
         },
-        "model": "item/nova/progress/4"
+        "model": "nova:item/progress/4"
       },
       {
         "predicate": {
           "custom_model_data": 10005
         },
-        "model": "item/nova/progress/5"
+        "model": "nova:item/progress/5"
       },
       {
         "predicate": {
           "custom_model_data": 10006
         },
-        "model": "item/nova/progress/6"
+        "model": "nova:item/progress/6"
       },
       {
         "predicate": {
           "custom_model_data": 10007
         },
-        "model": "item/nova/progress/7"
+        "model": "nova:item/progress/7"
       },
       {
         "predicate": {
           "custom_model_data": 10008
         },
-        "model": "item/nova/progress/8"
+        "model": "nova:item/progress/8"
       },
       {
         "predicate": {
           "custom_model_data": 10009
         },
-        "model": "item/nova/progress/9"
+        "model": "nova:item/progress/9"
       },
       {
         "predicate": {
           "custom_model_data": 10010
         },
-        "model": "item/nova/progress/10"
+        "model": "nova:item/progress/10"
       },
       {
         "predicate": {
           "custom_model_data": 10011
         },
-        "model": "item/nova/progress/11"
+        "model": "nova:item/progress/11"
       },
       {
         "predicate": {
           "custom_model_data": 10012
         },
-        "model": "item/nova/progress/12"
-      },      {
+        "model": "nova:item/progress/12"
+      },
+      {
         "predicate": {
           "custom_model_data": 10013
         },
-        "model": "item/nova/progress/13"
+        "model": "nova:item/progress/13"
       },
       {
         "predicate": {
           "custom_model_data": 10014
         },
-        "model": "item/nova/progress/14"
+        "model": "nova:item/progress/14"
       },
       {
         "predicate": {
           "custom_model_data": 10015
         },
-        "model": "item/nova/progress/15"
+        "model": "nova:item/progress/15"
       },
       {
         "predicate": {
           "custom_model_data": 10016
         },
-        "model": "item/nova/progress/16"
+        "model": "nova:item/progress/16"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10100
+        },
+        "model": "nova:item/energy/0"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10101
+        },
+        "model": "nova:item/energy/1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10102
+        },
+        "model": "nova:item/energy/2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10103
+        },
+        "model": "nova:item/energy/3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10104
+        },
+        "model": "nova:item/energy/4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10105
+        },
+        "model": "nova:item/energy/5"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10106
+        },
+        "model": "nova:item/energy/6"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10107
+        },
+        "model": "nova:item/energy/7"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10108
+        },
+        "model": "nova:item/energy/8"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10109
+        },
+        "model": "nova:item/energy/9"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10110
+        },
+        "model": "nova:item/energy/10"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10111
+        },
+        "model": "nova:item/energy/11"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10112
+        },
+        "model": "nova:item/energy/12"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10113
+        },
+        "model": "nova:item/energy/13"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10114
+        },
+        "model": "nova:item/energy/14"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10115
+        },
+        "model": "nova:item/energy/15"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10116
+        },
+        "model": "nova:item/energy/16"
       }
     ]
   }
