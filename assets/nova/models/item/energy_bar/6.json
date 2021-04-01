@@ -1,0 +1,6 @@
+{
+  "parent": "nova:item/icon_template_streched",
+  "textures": {
+    "1": "nova:item/energy_bar/6"
+  }
+}

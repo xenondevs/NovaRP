@@ -213,6 +213,108 @@
           "custom_model_data": 10116
         },
         "model": "nova:item/energy/16"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10200
+        },
+        "model": "nova:item/energy_bar/0"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10201
+        },
+        "model": "nova:item/energy_bar/1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10202
+        },
+        "model": "nova:item/energy_bar/2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10203
+        },
+        "model": "nova:item/energy_bar/3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10204
+        },
+        "model": "nova:item/energy_bar/4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10205
+        },
+        "model": "nova:item/energy_bar/5"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10206
+        },
+        "model": "nova:item/energy_bar/6"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10207
+        },
+        "model": "nova:item/energy_bar/7"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10208
+        },
+        "model": "nova:item/energy_bar/8"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10209
+        },
+        "model": "nova:item/energy_bar/9"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10210
+        },
+        "model": "nova:item/energy_bar/10"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10211
+        },
+        "model": "nova:item/energy_bar/11"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10212
+        },
+        "model": "nova:item/energy_bar/12"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10213
+        },
+        "model": "nova:item/energy_bar/13"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10214
+        },
+        "model": "nova:item/energy_bar/14"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10215
+        },
+        "model": "nova:item/energy_bar/15"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10216
+        },
+        "model": "nova:item/energy_bar/16"
       }
     ]
   }
