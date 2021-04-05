@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "nova:block_base",
+	"textures": {
+		"1": "block/furnace_side",
+		"2": "block/furnace_top",
+		"3": "nova:block/mechanical_press_front",
+		"particle": "nova:block/mechanical_press_front"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}
