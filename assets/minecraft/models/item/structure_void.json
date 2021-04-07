@@ -6,9 +6,15 @@
   "overrides":[
      {
         "predicate":{
-           "custom_model_data":0
+           "custom_model_data":-1
         },
         "model":"nova:empty"
+     },
+     {
+      "predicate":{
+         "custom_model_data":0
+      },
+      "model":"item/structure_void"
      },
      {
         "predicate":{
