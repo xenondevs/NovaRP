@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "nova:block/cable/down",
+	"textures": {
+		"0": "nova:block/cable/ultimate"
+	}
+}

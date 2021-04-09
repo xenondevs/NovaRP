@@ -1,11 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "nova:block_base",
-	"textures": {
-		"0": "nova:block/cable"
-	},
 	"elements": [
 		{
+			"name": "middle",
 			"from": [6, 6, 6],
 			"to": [10, 10, 10],
 			"faces": {
