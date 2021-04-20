@@ -26,13 +26,37 @@
        "predicate": {
          "custom_model_data": 2
        },
-       "model": "nova:block/power_cell"
+       "model": "nova:block/mechanical_press"
      },
      {
-       "predicate": {
-         "custom_model_data": 3
-       },
-       "model": "nova:block/mechanical_press"
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "nova:block/power_cell/basic"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "nova:block/power_cell/advanced"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "nova:block/power_cell/elite"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "nova:block/power_cell/ultimate"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "nova:block/power_cell/creative"
      },
      {
        "predicate": {
