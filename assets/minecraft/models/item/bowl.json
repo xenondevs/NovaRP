@@ -143,6 +143,30 @@
       "model":"nova:item/button/gear_off"
      },
      {
+      "predicate":{
+         "custom_model_data":9009
+      },
+      "model":"nova:item/button/energy_on"
+     },
+     {
+      "predicate":{
+         "custom_model_data":9010
+      },
+      "model":"nova:item/button/energy_off"
+     },
+     {
+      "predicate":{
+         "custom_model_data":9011
+      },
+      "model":"nova:item/button/item_on"
+     },
+     {
+      "predicate":{
+         "custom_model_data":9012
+      },
+      "model":"nova:item/button/item_off"
+     },
+     {
         "predicate":{
            "custom_model_data":10000
         },
