@@ -90,37 +90,37 @@
      },
      {
       "predicate":{
-         "custom_model_data":1017
+         "custom_model_data":1020
       },
       "model":"nova:item/iron_dust"
      },
      {
       "predicate":{
-         "custom_model_data":1018
+         "custom_model_data":1021
       },
       "model":"nova:item/gold_dust"
      },
      {
       "predicate":{
-         "custom_model_data":1019
+         "custom_model_data":1022
       },
       "model":"nova:item/diamond_dust"
      },
      {
       "predicate":{
-         "custom_model_data":1020
+         "custom_model_data":1023
       },
       "model":"nova:item/netherite_dust"
      },
      {
       "predicate":{
-         "custom_model_data":1021
+         "custom_model_data":1024
       },
       "model":"nova:item/emerald_dust"
      },
      {
       "predicate":{
-         "custom_model_data":1022
+         "custom_model_data":1025
       },
       "model":"nova:item/lapis_dust"
      },
