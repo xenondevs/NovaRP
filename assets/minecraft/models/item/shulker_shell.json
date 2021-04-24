@@ -125,6 +125,12 @@
       "model":"nova:item/lapis_dust"
      },
      {
+      "predicate":{
+         "custom_model_data":1026
+      },
+      "model":"nova:item/coal_dust"
+     },
+     {
         "predicate":{
            "custom_model_data":9000
         },
