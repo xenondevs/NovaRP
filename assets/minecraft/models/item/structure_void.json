@@ -165,6 +165,60 @@
          "custom_model_data": 5024
        },
        "model": "nova:block/cable/creative/all"
-     }
+     },
+     {
+       "predicate": {
+         "custom_model_data": 5025
+       },
+       "model": "nova:block/cable/attachment_in/horizontal"
+     },
+     {
+       "predicate": {
+         "custom_model_data": 5026
+       },
+       "model": "nova:block/cable/attachment_in/down"
+     },
+     {
+       "predicate": {
+         "custom_model_data": 5027
+       },
+       "model": "nova:block/cable/attachment_in/up"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 5028
+      },
+      "model": "nova:block/cable/attachment_out/horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5029
+      },
+      "model": "nova:block/cable/attachment_out/down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5030
+      },
+      "model": "nova:block/cable/attachment_out/up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5031
+      },
+      "model": "nova:block/cable/attachment_in_out/horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5032
+      },
+      "model": "nova:block/cable/attachment_in_out/down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5033
+      },
+      "model": "nova:block/cable/attachment_in_out/up"
+    }
    ]
  }
