@@ -51,6 +51,18 @@
         "custom_model_data": 6
       },
       "model": "nova:block/power_cell/ultimate"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "nova:block/power_cell/creative"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "nova:block/pulverizer"
      }
    ]
  }
