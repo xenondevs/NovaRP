@@ -131,6 +131,12 @@
       "model":"nova:item/coal_dust"
      },
      {
+      "predicate":{
+         "custom_model_data":2000
+      },
+      "model":"nova:item/wrench"
+     },
+     {
         "predicate":{
            "custom_model_data":9000
         },
