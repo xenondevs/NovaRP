@@ -137,6 +137,12 @@
       "model":"nova:item/wrench"
      },
      {
+      "predicate":{
+         "custom_model_data":2001
+      },
+      "model":"nova:item/item_filter"
+     },
+     {
         "predicate":{
            "custom_model_data":9000
         },
@@ -213,6 +219,18 @@
          "custom_model_data":9012
       },
       "model":"nova:item/button/item_off"
+     },
+     {
+      "predicate":{
+         "custom_model_data":9013
+      },
+      "model":"nova:item/button/whitelist"
+     },
+     {
+      "predicate":{
+         "custom_model_data":9014
+      },
+      "model":"nova:item/button/blacklist"
      },
      {
         "predicate":{
