@@ -63,6 +63,12 @@
         "custom_model_data": 8
       },
       "model": "nova:block/pulverizer"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "nova:block/solar_panel"
      }
    ]
  }
