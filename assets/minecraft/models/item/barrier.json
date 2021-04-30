@@ -69,6 +69,12 @@
         "custom_model_data": 9
       },
       "model": "nova:block/solar_panel"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "nova:block/quarry"
      }
    ]
  }

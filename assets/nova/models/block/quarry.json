@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block_base",
+	"parent": "nova:block_base",
 	"textures": {
 		"0": "minecraft:block/furnace_side",
 		"1": "minecraft:block/furnace_top",
