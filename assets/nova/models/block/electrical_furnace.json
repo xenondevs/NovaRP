@@ -1,6 +1,6 @@
 {
 	"parent": "nova:block/machine",
 	"textures": {
-		"front": "nova:block/pulverizer_front"
+		"front": "nova:block/electrical_furnace_front"
 	}
 }

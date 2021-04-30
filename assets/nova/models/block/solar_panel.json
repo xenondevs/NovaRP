@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "nova:block_base",
 	"textures": {
 		"0": "nova:block/solar_panel_top",
@@ -46,24 +45,18 @@
 			"from": [7, 12, 8],
 			"to": [9, 13, 9],
 			"faces": {
-				"north": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
 				"south": {"uv": [0, 0, 2, 1], "texture": "#1"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"up": {"uv": [0, 0, 2, 1], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#missing"}
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"}
 			}
 		},
 		{
 			"from": [7, 12, 8],
 			"to": [9, 13, 9],
 			"faces": {
-				"north": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
 				"south": {"uv": [0, 0, 2, 1], "texture": "#1"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"up": {"uv": [0, 0, 2, 1], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#missing"}
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"}
 			}
 		}
 	]
