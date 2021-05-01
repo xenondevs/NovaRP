@@ -1,0 +1,6 @@
+{
+  "parent": "nova:item/icon_template",
+  "textures": {
+    "1": "nova:item/number/821"
+  }
+}
