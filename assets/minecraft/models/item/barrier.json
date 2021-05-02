@@ -81,6 +81,12 @@
         "custom_model_data": 11
       },
       "model": "nova:block/electrical_furnace"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "nova:block/chunk_loader"
      }
    ]
  }
