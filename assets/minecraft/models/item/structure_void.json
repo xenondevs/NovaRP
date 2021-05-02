@@ -219,48 +219,6 @@
         "custom_model_data": 5033
       },
       "model": "nova:block/cable/attachment_in_out/up"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5034
-      },
-      "model": "nova:block/scaffolding/full_horizontal"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5035
-      },
-      "model": "nova:block/scaffolding/full_vertical"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5036
-      },
-      "model": "nova:block/scaffolding/corner_down"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5037
-      },
-      "model": "nova:block/scaffolding/small_horizontal"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5038
-      },
-      "model": "nova:block/scaffolding/full_slim_vertical"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5039
-      },
-      "model": "nova:block/scaffolding/slim_vertical_down"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5040
-      },
-      "model": "nova:block/scaffolding/drill"
     }
    ]
  }

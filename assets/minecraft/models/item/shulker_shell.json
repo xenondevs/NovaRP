@@ -131,6 +131,12 @@
        "model": "nova:item/coal_dust"
      },
      {
+      "predicate": {
+        "custom_model_data": 1030
+      },
+      "model": "nova:block/scaffolding/drill"
+     },
+     {
        "predicate": {
          "custom_model_data": 2000
        },
@@ -141,6 +147,48 @@
          "custom_model_data": 2001
        },
        "model": "nova:item/item_filter"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 5040
+      },
+      "model": "nova:item/scaffolding"
+    },
+     {
+      "predicate": {
+        "custom_model_data": 5041
+      },
+      "model": "nova:block/scaffolding/full_horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5042
+      },
+      "model": "nova:block/scaffolding/full_vertical"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5043
+      },
+      "model": "nova:block/scaffolding/corner_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5044
+      },
+      "model": "nova:block/scaffolding/small_horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5045
+      },
+      "model": "nova:block/scaffolding/full_slim_vertical"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5046
+      },
+      "model": "nova:block/scaffolding/slim_vertical_down"
      },
      {
        "predicate": {
