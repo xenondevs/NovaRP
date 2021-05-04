@@ -87,6 +87,18 @@
         "custom_model_data": 12
       },
       "model": "nova:block/chunk_loader"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "nova:block/block_breaker"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "nova:block/block_placer"
      }
    ]
  }
