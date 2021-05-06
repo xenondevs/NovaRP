@@ -99,6 +99,12 @@
         "custom_model_data": 14
       },
       "model": "nova:block/block_placer"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "nova:block/storage_unit"
      }
    ]
  }
