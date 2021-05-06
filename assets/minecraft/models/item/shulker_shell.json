@@ -150,6 +150,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 3000
+      },
+      "model": "nova:attachment/jetpack"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5040
       },
       "model": "nova:item/scaffolding"
