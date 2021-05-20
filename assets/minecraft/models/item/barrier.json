@@ -105,6 +105,18 @@
         "custom_model_data": 15
       },
       "model": "nova:block/storage_unit"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "nova:block/charger"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "nova:block/mob_killer"
      }
    ]
  }

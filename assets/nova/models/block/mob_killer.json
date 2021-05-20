@@ -1,0 +1,23 @@
+{
+	"parent": "nova:block_base",
+	"textures": {
+		"1": "nova:block/machine_top",
+		"3": "nova:block/mob_killer_front",
+		"4": "nova:block/mob_killer_skull",
+		"particle": "nova:block/mob_killer_skull"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}
