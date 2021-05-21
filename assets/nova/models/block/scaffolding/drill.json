@@ -1,8 +1,7 @@
 {
 	"parent": "nova:block_base",
 	"textures": {
-		"0": "block/netherite_block",
-		"particle": "block/netherite_block"
+		"0": "block/netherite_block"
 	},
 	"elements": [
 		{
