@@ -137,6 +137,12 @@
       "model": "nova:block/scaffolding/drill"
      },
      {
+      "predicate": {
+        "custom_model_data": 1031
+      },
+      "model": "nova:item/solar_cell"
+     },
+     {
        "predicate": {
          "custom_model_data": 2000
        },
