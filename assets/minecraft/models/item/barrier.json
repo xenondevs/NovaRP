@@ -117,6 +117,12 @@
         "custom_model_data": 17
       },
       "model": "nova:block/mob_killer"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "nova:block/vacuum_chest"
      }
    ]
  }
