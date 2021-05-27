@@ -123,6 +123,12 @@
         "custom_model_data": 18
       },
       "model": "nova:block/vacuum_chest"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "nova:block/breeder"
      }
    ]
  }
