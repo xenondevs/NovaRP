@@ -1,0 +1,25 @@
+{
+	"parent": "nova:block_base",
+	"textures": {
+		"top": "nova:block/mob_duplicator_top",
+		"bottom": "nova:block/machine_top",
+		"north": "nova:block/mob_duplicator_side_0",
+		"east": "nova:block/mob_duplicator_side_1",
+		"south": "nova:block/mob_duplicator_side_2",
+		"west": "nova:block/mob_duplicator_side_3"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		}
+	]
+}

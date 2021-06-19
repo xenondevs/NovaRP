@@ -47,10 +47,10 @@
        "model": "nova:item/lapis_plate"
      },
      {
-      "predicate": {
-        "custom_model_data": 1007
-      },
-      "model": "nova:item/copper_plate"
+       "predicate": {
+         "custom_model_data": 1007
+       },
+       "model": "nova:item/copper_plate"
      },
      {
        "predicate": {
@@ -95,10 +95,10 @@
        "model": "nova:item/lapis_gear"
      },
      {
-      "predicate": {
-        "custom_model_data": 1017
-      },
-      "model": "nova:item/copper_gear"
+       "predicate": {
+         "custom_model_data": 1017
+       },
+       "model": "nova:item/copper_gear"
      },
      {
        "predicate": {
@@ -144,7 +144,7 @@
      },
      {
        "predicate": {
-         "custom_model_data": 1026
+         "custom_model_data": 1027
        },
        "model": "nova:item/copper_dust"
      },
@@ -159,6 +159,12 @@
         "custom_model_data": 1031
       },
       "model": "nova:item/solar_cell"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 1032
+      },
+      "model": "nova:item/bottle_mob"
      },
      {
        "predicate": {
@@ -339,6 +345,18 @@
         "custom_model_data": 9020
       },
       "model": "nova:item/button/area_off"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9021
+      },
+      "model": "nova:item/button/nbt_on"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9022
+      },
+      "model": "nova:item/button/nbt_off"
      },
      {
        "predicate": {

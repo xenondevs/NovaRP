@@ -129,6 +129,12 @@
         "custom_model_data": 19
       },
       "model": "nova:block/breeder"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "nova:block/mob_duplicator"
      }
    ]
  }
