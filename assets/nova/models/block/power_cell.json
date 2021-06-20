@@ -1,7 +1,6 @@
 {
 	"parent": "nova:block/block",
 	"textures": {
-		"0": "nova:block/power_cell",
-		"particle": "nova:block/power_cell"
+		"0": "nova:block/power_cell"
 	}
 }

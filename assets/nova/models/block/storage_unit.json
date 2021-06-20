@@ -6,8 +6,7 @@
 		"1": "nova:block/machine_side",
 		"2": "nova:block/machine_top",
 		"3": "nova:block/machine_side_blank",
-		"4": "nova:block/storage_unit/sphere",
-		"particle": "nova:block/storage_unit/glass-side"
+		"4": "nova:block/storage_unit/sphere"
 	},
 	"elements": [
 		{
