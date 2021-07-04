@@ -59,7 +59,7 @@
   "item.nova.jetpack": "电力喷气背包",
   "item.nova.scaffolding": "采石场脚手架",
 
-  "inventory.nova.default": "物品栏",
+  "inventory.nova.default": "物品",
   "inventory.nova.fuel": "燃料",
   "inventory.nova.input": "输入",
   "inventory.nova.output": "输出",
@@ -194,5 +194,9 @@
   "advancement.nova.dust.title": "小心,别被风吹走了!",
   "advancement.nova.dust.description": "粉碎一些东西来获得粉末",
   "advancement.nova.all_dusts.title": "粉末博物馆",
-  "advancement.nova.all_dusts.description": "获得每一种粉末"
+  "advancement.nova.all_dusts.description": "获得每一种粉末",
+  
+  "nova.tile_entity_limits.deny_blacklist": "你无法在这个世界放置任何 Nova 的方块",
+  "nova.tile_entity_limits.deny_blacklist_type": "你无法在这个世界放置这个方块",
+  "nova.tile_entity_limits.deny_limit": "你无法放置更多该类型的物品"
 }
