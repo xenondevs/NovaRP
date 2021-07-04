@@ -133,7 +133,7 @@
   "command.nova.network_debug.energy": "切换 电力网络 调试视角",
   "command.nova.network_debug.item": "切换 物品网络 调试视角",
 
-  "advancement.nova.root.title": "新星科技",
+  "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "汉化:小默米",
   "advancement.nova.block_breaker.title": "解放双手",
   "advancement.nova.block_breaker.description": "制造一个方块破坏机",
