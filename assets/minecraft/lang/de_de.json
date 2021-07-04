@@ -193,5 +193,9 @@
   "advancement.nova.dust.title": "Staub",
   "advancement.nova.dust.description": "Benutze den Pulverisierer, um etwas zu Staub zu machen",
   "advancement.nova.all_dusts.title": "Staubsammler",
-  "advancement.nova.all_dusts.description": "Besitze alle verschiedenen Saubarten"
+  "advancement.nova.all_dusts.description": "Besitze alle verschiedenen Saubarten",
+
+  "nova.tile_entity_limits.deny_blacklist": "In dieser Welt sind keine Blöcke von Nova erlaubt.",
+  "nova.tile_entity_limits.deny_blacklist_type": "Dieser Block darf nicht in dieser Welt platziert werden.",
+  "nova.tile_entity_limits.deny_limit": "Du hast das Limit für diesen Block-Typ erreicht."
 }

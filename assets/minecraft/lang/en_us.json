@@ -193,5 +193,9 @@
   "advancement.nova.dust.title": "Dust",
   "advancement.nova.dust.description": "Pulverize something to get dust",
   "advancement.nova.all_dusts.title": "Dust Collector",
-  "advancement.nova.all_dusts.description": "Get one of every dust"
+  "advancement.nova.all_dusts.description": "Get one of every dust",
+
+  "nova.tile_entity_limits.deny_blacklist": "You're not allowed to place any blocks from Nova in this world.",
+  "nova.tile_entity_limits.deny_blacklist_type": "You're not allowed to place this block in this world.",
+  "nova.tile_entity_limits.deny_limit": "You cannot place more blocks of this type."
 }
