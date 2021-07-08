@@ -24,6 +24,7 @@
   "block.nova.elite_cable": "Elite Cable",
   "block.nova.ultimate_cable": "Ultimate Cable",
   "block.nova.creative_cable": "Creative Cable",
+  "block.nova.wind_turbine": "Wind Turbine",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -123,6 +124,7 @@
   "menu.nova.item_filter": "Item Filter",
   "menu.nova.item_filter.whitelist": "Currently: Whitelist",
   "menu.nova.item_filter.blacklist": "Currently: Blacklist",
+  "menu.nova.wind_turbine": "Wind Turbine",
 
   "command.nova.give.success": "The item %s has been added to your inventory.",
   "command.nova.list_nearby.success": "Out of the %s armor stands in your chunk, %s are part of a tile entity.",

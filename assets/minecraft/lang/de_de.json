@@ -24,6 +24,7 @@
   "block.nova.elite_cable": "Elite-Kabel",
   "block.nova.ultimate_cable": "Ultimatives Kabel",
   "block.nova.creative_cable": "Kreativ-Kabel",
+  "block.nova.wind_turbine": "Windrad",
 
   "item.nova.iron_plate": "Eisenplatte",
   "item.nova.gold_plate": "Goldplatte",
@@ -123,6 +124,7 @@
   "menu.nova.item_filter": "Itemfilter",
   "menu.nova.item_filter.whitelist": "Momentan: Weiße Liste",
   "menu.nova.item_filter.blacklist": "Momentan: Schwarze Liste",
+  "menu.nova.wind_turbine": "Windrad",
 
   "command.nova.give.success": "Das Item %s wurde zu deinem Inventar hinzugefügt.",
   "command.nova.list_nearby.success": "Von den %s Rüstungsständern in deinem Chunk sind %s Teil einer TileEntity.",

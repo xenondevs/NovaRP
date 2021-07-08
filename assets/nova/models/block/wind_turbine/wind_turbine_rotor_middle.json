@@ -1,0 +1,37 @@
+{
+	"textures": {
+		"1": "nova:block/wind_turbine"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 3, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -14, 0]},
+			"faces": {
+				"north": {"uv": [13.5, 0, 15, 0.75], "texture": "#1"},
+				"east": {"uv": [13.5, 0, 15, 0.75], "texture": "#1"},
+				"south": {"uv": [13.5, 0, 15, 0.75], "texture": "#1"},
+				"west": {"uv": [13.5, 0, 15, 0.75], "texture": "#1"},
+				"up": {"uv": [13.5, 0, 15, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 3, 6],
+			"to": [10, 5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -14, 0]},
+			"faces": {
+				"north": {"uv": [13.75, 0, 14.75, 0.5], "texture": "#1"},
+				"east": {"uv": [13.75, 0, 14.75, 0.5], "texture": "#1"},
+				"south": {"uv": [13.75, 0, 14.75, 0.5], "texture": "#1"},
+				"west": {"uv": [13.75, 0, 14.75, 0.5], "texture": "#1"},
+				"up": {"uv": [13.75, 0.25, 14.75, 1.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 15.5, 0],
+			"scale": [1.8, 1.8, 1.8]
+		}
+	}
+}

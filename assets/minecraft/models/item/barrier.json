@@ -135,6 +135,36 @@
         "custom_model_data": 20
       },
       "model": "nova:block/mob_duplicator"
-     }
+     },
+     {
+      "predicate": {
+        "custom_model_data": 5050
+      },
+      "model": "nova:block/wind_turbine/wind_turbine_item"
+    },
+     {
+      "predicate": {
+        "custom_model_data": 5051
+      },
+      "model": "nova:block/wind_turbine/wind_turbine_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5052
+      },
+      "model": "nova:block/wind_turbine/wind_turbine_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5053
+      },
+      "model": "nova:block/wind_turbine/wind_turbine_rotor_middle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5054
+      },
+      "model": "nova:block/wind_turbine/wind_turbine_rotor_blade"
+    }
    ]
  }
