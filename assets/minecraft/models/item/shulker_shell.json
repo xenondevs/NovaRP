@@ -359,6 +359,18 @@
       "model": "nova:item/button/nbt_off"
      },
      {
+      "predicate": {
+        "custom_model_data": 9023
+      },
+      "model": "nova:item/button/hoe_on"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9024
+      },
+      "model": "nova:item/button/hoe_off"
+     },
+     {
        "predicate": {
          "custom_model_data": 10000
        },
