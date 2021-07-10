@@ -25,6 +25,7 @@
   "block.nova.ultimate_cable": "Ultimate Cable",
   "block.nova.creative_cable": "Creative Cable",
   "block.nova.wind_turbine": "Wind Turbine",
+  "block.nova.planter": "Planter",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -63,6 +64,7 @@
   "inventory.nova.fuel": "Fuel Inventory",
   "inventory.nova.input": "Input Inventory",
   "inventory.nova.output": "Output Inventory",
+  "inventory.nova.hoes": "Hoes Inventory",
 
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "Items",
@@ -125,6 +127,8 @@
   "menu.nova.item_filter.whitelist": "Currently: Whitelist",
   "menu.nova.item_filter.blacklist": "Currently: Blacklist",
   "menu.nova.wind_turbine": "Wind Turbine",
+  "menu.nova.planter": "Planter",
+  "menu.nova.planter.autotill": "Automatically till dirt",
 
   "command.nova.give.success": "The item %s has been added to your inventory.",
   "command.nova.list_nearby.success": "Out of the %s armor stands in your chunk, %s are part of a tile entity.",
