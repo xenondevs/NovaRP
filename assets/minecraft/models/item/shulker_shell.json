@@ -222,12 +222,6 @@
      },
      {
        "predicate": {
-         "custom_model_data": 9000
-       },
-       "model": "nova:item/button/side_config"
-     },
-     {
-       "predicate": {
          "custom_model_data": 9001
        },
        "model": "nova:item/button/gray"
@@ -254,119 +248,149 @@
        "predicate": {
          "custom_model_data": 9005
        },
-       "model": "nova:item/button/plate_on"
+       "model": "nova:item/button/white"
      },
      {
        "predicate": {
          "custom_model_data": 9006
        },
-       "model": "nova:item/button/plate_off"
+       "model": "nova:item/button/red"
      },
      {
        "predicate": {
          "custom_model_data": 9007
        },
-       "model": "nova:item/button/gear_on"
+       "model": "nova:item/button/yellow"
      },
      {
        "predicate": {
          "custom_model_data": 9008
        },
+       "model": "nova:item/button/pink"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9100
+      },
+      "model": "nova:item/button/side_config"
+    },
+     {
+       "predicate": {
+         "custom_model_data": 9101
+       },
+       "model": "nova:item/button/plate_on"
+     },
+     {
+       "predicate": {
+         "custom_model_data": 9102
+       },
+       "model": "nova:item/button/plate_off"
+     },
+     {
+       "predicate": {
+         "custom_model_data": 9103
+       },
+       "model": "nova:item/button/gear_on"
+     },
+     {
+       "predicate": {
+         "custom_model_data": 9104
+       },
        "model": "nova:item/button/gear_off"
      },
      {
        "predicate": {
-         "custom_model_data": 9009
+         "custom_model_data": 9105
        },
        "model": "nova:item/button/energy_on"
      },
      {
        "predicate": {
-         "custom_model_data": 9010
+         "custom_model_data": 9106
        },
        "model": "nova:item/button/energy_off"
      },
      {
        "predicate": {
-         "custom_model_data": 9011
+         "custom_model_data": 9107
        },
        "model": "nova:item/button/item_on"
      },
      {
        "predicate": {
-         "custom_model_data": 9012
+         "custom_model_data": 9108
        },
        "model": "nova:item/button/item_off"
      },
      {
        "predicate": {
-         "custom_model_data": 9013
+         "custom_model_data": 9109
        },
        "model": "nova:item/button/whitelist"
      },
      {
        "predicate": {
-         "custom_model_data": 9014
+         "custom_model_data": 9110
        },
        "model": "nova:item/button/blacklist"
      },
      {
        "predicate": {
-         "custom_model_data": 9015
+         "custom_model_data": 9111
        },
        "model": "nova:item/button/plus_on"
      },
      {
        "predicate": {
-         "custom_model_data": 9016
+         "custom_model_data": 9112
        },
        "model": "nova:item/button/plus_off"
      },
      {
        "predicate": {
-         "custom_model_data": 9017
+         "custom_model_data": 9113
        },
        "model": "nova:item/button/minus_on"
      },
      {
        "predicate": {
-         "custom_model_data": 9018
+         "custom_model_data": 9114
        },
        "model": "nova:item/button/minus_off"
      },
      {
       "predicate": {
-        "custom_model_data": 9019
+        "custom_model_data": 9115
       },
       "model": "nova:item/button/area_on"
      },
      {
       "predicate": {
-        "custom_model_data": 9020
+        "custom_model_data": 9116
       },
       "model": "nova:item/button/area_off"
      },
      {
       "predicate": {
-        "custom_model_data": 9021
+        "custom_model_data": 9117
       },
       "model": "nova:item/button/nbt_on"
      },
      {
       "predicate": {
-        "custom_model_data": 9022
+        "custom_model_data": 9118
       },
       "model": "nova:item/button/nbt_off"
      },
      {
       "predicate": {
-        "custom_model_data": 9023
+        "custom_model_data": 9119
       },
       "model": "nova:item/button/hoe_on"
      },
      {
       "predicate": {
-        "custom_model_data": 9024
+        "custom_model_data": 9120
       },
       "model": "nova:item/button/hoe_off"
      },
