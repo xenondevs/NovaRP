@@ -138,6 +138,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "nova:block/harvester"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
