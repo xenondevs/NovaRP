@@ -26,6 +26,7 @@
   "block.nova.creative_cable": "Creative Cable",
   "block.nova.wind_turbine": "Wind Turbine",
   "block.nova.planter": "Planter",
+  "block.nova.harvester": "Harvester",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -65,6 +66,9 @@
   "inventory.nova.input": "Input Inventory",
   "inventory.nova.output": "Output Inventory",
   "inventory.nova.hoes": "Hoes Inventory",
+  "inventory.nova.shears": "Shears Inventory",
+  "inventory.nova.axes": "Axes Inventory",
+  "inventory.nova.harvester": "Harvester Inventory",
 
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "Items",
@@ -129,6 +133,7 @@
   "menu.nova.wind_turbine": "Wind Turbine",
   "menu.nova.planter": "Planter",
   "menu.nova.planter.autotill": "Automatically till dirt",
+  "menu.nova.harvester": "Harvester",
 
   "command.nova.give.success": "The item %s has been added to your inventory.",
   "command.nova.list_nearby.success": "Out of the %s armor stands in your chunk, %s are part of a tile entity.",
@@ -202,6 +207,8 @@
   "advancement.nova.all_dusts.description": "Get one of every dust",
   "advancement.nova.planter.title": "Automatic Farming",
   "advancement.nova.planter.description": "Craft a Planter",
+  "advancement.nova.harvester.title": "Automated Harvest",
+  "advancement.nova.harvester.description": "Craft a Harvester",
 
   "nova.tile_entity_limits.deny_blacklist": "You're not allowed to place any blocks from Nova in this world.",
   "nova.tile_entity_limits.deny_blacklist_type": "You're not allowed to place this block in this world.",
