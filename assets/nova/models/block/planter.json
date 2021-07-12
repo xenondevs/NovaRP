@@ -1,0 +1,11 @@
+{
+	"parent": "nova:block/block_all",
+	"textures": {
+		"up": "nova:block/machine_top",
+		"down": "nova:block/machine_top",
+		"north": "nova:block/planter_front",
+		"east": "nova:block/planter_side",
+		"south": "nova:block/machine_side",
+		"west": "nova:block/planter_side"
+	}
+}

@@ -138,6 +138,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "nova:block/planter"
+     },
+     {
+      "predicate": {
         "custom_model_data": 22
       },
       "model": "nova:block/harvester"
