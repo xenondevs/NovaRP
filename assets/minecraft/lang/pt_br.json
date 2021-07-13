@@ -130,7 +130,7 @@
   "command.nova.remove_obsolete_models.success": "Removeu %s suportes de armadura.",
   "command.nova.remove_tile_entities.success": "Removeu %s entidades de tile.",
   "command.nova.network_debug.energy": "Alternou visão de debug para redes de energia",
-  "command.nova.network_debug.item": "Alternou visão de debug para redes de item",
+  "command.nova.network_debug.items": "Alternou visão de debug para redes de item",
 
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",

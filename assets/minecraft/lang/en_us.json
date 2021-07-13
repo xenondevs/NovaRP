@@ -144,7 +144,7 @@
   "command.nova.remove_obsolete_models.success": "Removed %s armor stands.",
   "command.nova.remove_tile_entities.success": "Removed %s tile entities.",
   "command.nova.network_debug.energy": "Toggled debug-view for Energy-Networks",
-  "command.nova.network_debug.item": "Toggled debug-view for Item-Networks",
+  "command.nova.network_debug.items": "Toggled debug-view for Item-Networks",
 
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",

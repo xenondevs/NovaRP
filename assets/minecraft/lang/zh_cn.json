@@ -131,7 +131,7 @@
   "command.nova.remove_obsolete_models.success": "成功移除 %s 个盔甲架.",
   "command.nova.remove_tile_entities.success": "成功移除 %s 个 tile 实体.",
   "command.nova.network_debug.energy": "切换 电力网络 调试视角",
-  "command.nova.network_debug.item": "切换 物品网络 调试视角",
+  "command.nova.network_debug.items": "切换 物品网络 调试视角",
 
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "汉化:小默米",
