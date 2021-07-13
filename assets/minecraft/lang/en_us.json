@@ -212,6 +212,8 @@
   "advancement.nova.planter.description": "Craft a Planter",
   "advancement.nova.harvester.title": "Automated Harvest",
   "advancement.nova.harvester.description": "Craft a Harvester",
+  "advancement.nova.fertilizer.title": "Automated Fertilizing",
+  "advancement.nova.fertilizer.description": "Craft a Fertilizer",
 
   "nova.tile_entity_limits.deny_blacklist": "You're not allowed to place any blocks from Nova in this world.",
   "nova.tile_entity_limits.deny_blacklist_type": "You're not allowed to place this block in this world.",
