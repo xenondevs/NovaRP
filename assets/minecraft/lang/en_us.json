@@ -27,6 +27,7 @@
   "block.nova.wind_turbine": "Wind Turbine",
   "block.nova.planter": "Planter",
   "block.nova.harvester": "Harvester",
+  "block.nova.fertilizer": "Fertilizer",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -69,6 +70,7 @@
   "inventory.nova.shears": "Shears Inventory",
   "inventory.nova.axes": "Axes Inventory",
   "inventory.nova.harvester": "Harvester Inventory",
+  "inventory.nova.fertilizer": "Fertilizers Inventory",
 
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "Items",
@@ -134,6 +136,7 @@
   "menu.nova.planter": "Planter",
   "menu.nova.planter.autotill": "Automatically till dirt",
   "menu.nova.harvester": "Harvester",
+  "menu.nova.fertilizer": "Fertilizer",
 
   "command.nova.give.success": "The item %s has been added to your inventory.",
   "command.nova.list_nearby.success": "Out of the %s armor stands in your chunk, %s are part of a tile entity.",
