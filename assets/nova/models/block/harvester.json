@@ -1,6 +1,6 @@
 {
 	"parent": "nova:block/machine",
 	"textures": {
-		"front": "nova:block/harvester"
+		"front": "nova:block/harvester_front"
 	}
 }
