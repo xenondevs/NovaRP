@@ -395,6 +395,36 @@
       "model": "nova:item/button/hoe_off"
      },
      {
+      "predicate": {
+        "custom_model_data": 9500
+      },
+      "model": "nova:item/placeholder/hoe"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9501
+      },
+      "model": "nova:item/placeholder/axe"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9502
+      },
+      "model": "nova:item/placeholder/shears"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9503
+      },
+      "model": "nova:item/placeholder/item_filter"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9504
+      },
+      "model": "nova:item/placeholder/bottled_mob"
+     },
+     {
        "predicate": {
          "custom_model_data": 10000
        },
