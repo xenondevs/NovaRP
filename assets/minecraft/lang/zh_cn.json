@@ -1,4 +1,3 @@
-
 {
   "block.nova.furnace_generator": "火力发电器",
   "block.nova.mechanical_press": "金属冲压机",
@@ -25,6 +24,10 @@
   "block.nova.elite_cable": "精英电缆",
   "block.nova.ultimate_cable": "究极电缆",
   "block.nova.creative_cable": "创世电缆",
+  "block.nova.wind_turbine": "风力发电机",
+  "block.nova.planter": "种植机",
+  "block.nova.harvester": "收割机",
+  "block.nova.fertilizer": "施肥机",
 
   "item.nova.iron_plate": "铁板",
   "item.nova.gold_plate": "金板",
@@ -63,7 +66,12 @@
   "inventory.nova.fuel": "燃料",
   "inventory.nova.input": "输入",
   "inventory.nova.output": "输出",
-
+  "inventory.nova.hoes": "锄头",
+  "inventory.nova.shears": "剪刀",
+  "inventory.nova.axes": "斧",
+  "inventory.nova.harvester": "收割机存储",
+  "inventory.nova.fertilizer": "施肥机存储",
+  
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "物品",
   "menu.nova.recipe": "合成指南",
@@ -124,6 +132,11 @@
   "menu.nova.item_filter": "物品过滤器",
   "menu.nova.item_filter.whitelist": "当前过滤模式: 白名单",
   "menu.nova.item_filter.blacklist": "当前过滤模式: 黑名单",
+  "menu.nova.wind_turbine": "风力发电机",
+  "menu.nova.planter": "种植机",
+  "menu.nova.planter.autotill": "自动翻土",
+  "menu.nova.harvester": "收割机",
+  "menu.nova.fertilizer": "施肥机",
 
   "command.nova.give.success": "成功给予 %s 到你的物品栏中.",
   "command.nova.list_nearby.success": "在你所处区块的 %s 个盔甲架中, %s 个是 tile 实体.",
@@ -195,6 +208,12 @@
   "advancement.nova.dust.description": "粉碎一些东西来获得粉末",
   "advancement.nova.all_dusts.title": "粉末博物馆",
   "advancement.nova.all_dusts.description": "获得每一种粉末",
+  "advancement.nova.planter.title": "自动化种植",
+  "advancement.nova.planter.description": "制造一个种植机",
+  "advancement.nova.harvester.title": "机械化农业",
+  "advancement.nova.harvester.description": "制造一个收割机",
+  "advancement.nova.fertilizer.title": "肥沃的土壤",
+  "advancement.nova.fertilizer.description": "制造一个施肥机",
   
   "nova.tile_entity_limits.deny_blacklist": "你无法在这个世界放置任何 Nova 的方块",
   "nova.tile_entity_limits.deny_blacklist_type": "你无法在这个世界放置这个方块",
