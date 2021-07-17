@@ -28,7 +28,6 @@
   "block.nova.planter": "种植机",
   "block.nova.harvester": "收割机",
   "block.nova.fertilizer": "施肥机",
-
   "item.nova.iron_plate": "铁板",
   "item.nova.gold_plate": "金板",
   "item.nova.diamond_plate": "钻石板",
@@ -61,7 +60,6 @@
   "item.nova.item_filter": "物品过滤器",
   "item.nova.jetpack": "电力喷气背包",
   "item.nova.scaffolding": "采石场脚手架",
-
   "inventory.nova.default": "物品",
   "inventory.nova.fuel": "燃料",
   "inventory.nova.input": "输入",
@@ -71,7 +69,6 @@
   "inventory.nova.axes": "斧",
   "inventory.nova.harvester": "收割机存储",
   "inventory.nova.fertilizer": "施肥机存储",
-  
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "物品",
   "menu.nova.recipe": "合成指南",
@@ -137,7 +134,6 @@
   "menu.nova.planter.autotill": "自动翻土",
   "menu.nova.harvester": "收割机",
   "menu.nova.fertilizer": "施肥机",
-
   "command.nova.give.success": "成功给予 %s 到你的物品栏中.",
   "command.nova.list_nearby.success": "在你所处区块的 %s 个盔甲架中, %s 个是 tile 实体.",
   "command.nova.get_nearest_data.failed": "无法找到在附近找到 tile 实体.",
@@ -145,9 +141,8 @@
   "command.nova.remove_tile_entities.success": "成功移除 %s 个 tile 实体.",
   "command.nova.network_debug.energy": "切换 电力网络 调试视角",
   "command.nova.network_debug.items": "切换 物品网络 调试视角",
-
   "advancement.nova.root.title": "Nova",
-  "advancement.nova.root.description": "汉化:小默米",
+  "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "解放双手",
   "advancement.nova.block_breaker.description": "制造一个方块破坏机",
   "advancement.nova.block_placer.title": "它有机械臂吗?",
@@ -214,7 +209,6 @@
   "advancement.nova.harvester.description": "制造一个收割机",
   "advancement.nova.fertilizer.title": "肥沃的土壤",
   "advancement.nova.fertilizer.description": "制造一个施肥机",
-  
   "nova.tile_entity_limits.deny_blacklist": "你无法在这个世界放置任何 Nova 的方块",
   "nova.tile_entity_limits.deny_blacklist_type": "你无法在这个世界放置这个方块",
   "nova.tile_entity_limits.deny_limit": "你无法放置更多该类型的物品"
