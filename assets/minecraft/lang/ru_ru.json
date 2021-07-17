@@ -67,7 +67,6 @@
   "inventory.nova.hoes": "Слот для Мотыги",
   "inventory.nova.shears": "Слот для Ножниц",
   "inventory.nova.axes": "Слот для Топоров",
-  "inventory.nova.harvester": "Инвентарь сборщика урожая",
   "inventory.nova.fertilizer": "Инвентарь удобрителя",
   "menu.nova.energy_per_tick": "%s / тик",
   "menu.nova.creative": "Предметы",
