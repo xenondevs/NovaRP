@@ -1,0 +1,3 @@
+files:
+  - source: /assets/minecraft/lang/en_us.json
+    translation: /assets/minecraft/lang/%language%.json
