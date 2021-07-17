@@ -67,7 +67,6 @@
   "inventory.nova.hoes": "Inventar für Hacken",
   "inventory.nova.shears": "Inventar für Scheren",
   "inventory.nova.axes": "Inventar für Äxte",
-  "inventory.nova.harvester": "Harvester Inventory",
   "inventory.nova.fertilizer": "Düngerstreuer-Inventar",
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "Items",
