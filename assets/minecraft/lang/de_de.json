@@ -28,7 +28,6 @@
   "block.nova.planter": "Pflanzmaschine",
   "block.nova.harvester": "Erntemaschine",
   "block.nova.fertilizer": "Düngerstreuer",
-
   "item.nova.iron_plate": "Eisenplatte",
   "item.nova.gold_plate": "Goldplatte",
   "item.nova.diamond_plate": "Diamantplatte",
@@ -61,7 +60,6 @@
   "item.nova.item_filter": "Itemfilter",
   "item.nova.jetpack": "Jetpack",
   "item.nova.scaffolding": "Quarrygerüst",
-
   "inventory.nova.default": "Inventar",
   "inventory.nova.fuel": "Treibstoff-Inventar",
   "inventory.nova.input": "Eingabe-Inventar",
@@ -69,8 +67,8 @@
   "inventory.nova.hoes": "Inventar für Hacken",
   "inventory.nova.shears": "Inventar für Scheren",
   "inventory.nova.axes": "Inventar für Äxte",
+  "inventory.nova.harvester": "Harvester Inventory",
   "inventory.nova.fertilizer": "Düngerstreuer-Inventar",
-
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "Items",
   "menu.nova.recipe": "Handwerksbuch",
@@ -136,7 +134,6 @@
   "menu.nova.planter.autotill": "Automatisches Pflügen",
   "menu.nova.harvester": "Erntemaschine",
   "menu.nova.fertilizer": "Düngerstreuer",
-
   "command.nova.give.success": "Das Item %s wurde zu deinem Inventar hinzugefügt.",
   "command.nova.list_nearby.success": "Von den %s Rüstungsständern in deinem Chunk sind %s Teil einer TileEntity.",
   "command.nova.get_nearest_data.failed": "Es konnte keine TileEntity in deiner Nähe gefunden werden.",
@@ -144,7 +141,6 @@
   "command.nova.remove_tile_entities.success": "%s TileEntites wurden entfernt.",
   "command.nova.network_debug.energy": "Debug-Ansicht für Energie-Netzwerke umgeschaltet.",
   "command.nova.network_debug.items": "Debug-Ansicht für Item-Netzwerke umgeschaltet.",
-
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Urlaub für Steve",
@@ -213,7 +209,6 @@
   "advancement.nova.harvester.description": "Stelle eine Erntemaschine her",
   "advancement.nova.fertilizer.title": "Automatisches Düngen",
   "advancement.nova.fertilizer.description": "Stelle einen Düngerstreuer her",
-
   "nova.tile_entity_limits.deny_blacklist": "In dieser Welt sind keine Blöcke von Nova erlaubt.",
   "nova.tile_entity_limits.deny_blacklist_type": "Dieser Block darf nicht in dieser Welt platziert werden.",
   "nova.tile_entity_limits.deny_limit": "Du hast das Limit für diesen Block-Typ erreicht."
