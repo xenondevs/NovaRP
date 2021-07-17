@@ -67,7 +67,6 @@
   "inventory.nova.hoes": "锄头",
   "inventory.nova.shears": "剪刀",
   "inventory.nova.axes": "斧",
-  "inventory.nova.harvester": "收割机存储",
   "inventory.nova.fertilizer": "施肥机存储",
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "物品",
