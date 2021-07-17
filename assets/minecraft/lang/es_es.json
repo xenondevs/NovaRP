@@ -67,7 +67,6 @@
   "inventory.nova.hoes": "Hoes Inventory",
   "inventory.nova.shears": "Shears Inventory",
   "inventory.nova.axes": "Axes Inventory",
-  "inventory.nova.harvester": "Harvester Inventory",
   "inventory.nova.fertilizer": "Fertilizers Inventory",
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.creative": "Items",
