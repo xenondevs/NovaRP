@@ -156,6 +156,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "nova:block/wireless_charger"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
