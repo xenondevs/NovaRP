@@ -28,6 +28,7 @@
   "block.nova.planter": "Planter",
   "block.nova.harvester": "Harvester",
   "block.nova.fertilizer": "Fertilizer",
+  "block.nova.wireless_charger": "Wireless Charger",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -69,7 +70,6 @@
   "inventory.nova.hoes": "Hoes Inventory",
   "inventory.nova.shears": "Shears Inventory",
   "inventory.nova.axes": "Axes Inventory",
-  "inventory.nova.harvester": "Harvester Inventory",
   "inventory.nova.fertilizer": "Fertilizers Inventory",
 
   "menu.nova.energy_per_tick": "%s / tick",
@@ -137,6 +137,7 @@
   "menu.nova.planter.autotill": "Automatically till dirt",
   "menu.nova.harvester": "Harvester",
   "menu.nova.fertilizer": "Fertilizer",
+  "menu.nova.wireless_charger": "Wireless Charger",
 
   "command.nova.give.success": "The item %s has been added to your inventory.",
   "command.nova.list_nearby.success": "Out of the %s armor stands in your chunk, %s are part of a tile entity.",
@@ -214,6 +215,8 @@
   "advancement.nova.harvester.description": "Craft a Harvester",
   "advancement.nova.fertilizer.title": "Automated Fertilizing",
   "advancement.nova.fertilizer.description": "Craft a Fertilizer",
+  "advancement.nova.wireless_charger.title": "Over the Air",
+  "advancement.nova.wireless_charger.description": "Craft a Wireless Charger",
 
   "nova.tile_entity_limits.deny_blacklist": "You're not allowed to place any blocks from Nova in this world.",
   "nova.tile_entity_limits.deny_blacklist_type": "You're not allowed to place this block in this world.",
