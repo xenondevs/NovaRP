@@ -214,5 +214,6 @@
   "advancement.nova.wireless_charger.description": "合成一个无线充电器",
   "nova.tile_entity_limits.deny_blacklist": "你无法在这个世界放置任何 Nova 的方块",
   "nova.tile_entity_limits.deny_blacklist_type": "你无法在这个世界放置这个方块",
-  "nova.tile_entity_limits.deny_limit": "你无法放置更多该类型的物品"
+  "nova.tile_entity_limits.deny_limit": "你无法放置更多该类型的物品",
+  "nova.outdated_version": "§cYou're running an outdated version of §bNova§c.\nPlease download the latest version at %s"
 }
