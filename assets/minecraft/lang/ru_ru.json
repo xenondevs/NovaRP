@@ -214,5 +214,6 @@
   "advancement.nova.wireless_charger.description": "Craft a Wireless Charger",
   "nova.tile_entity_limits.deny_blacklist": "Вы не можете ставить блоки Nova в этом мире.",
   "nova.tile_entity_limits.deny_blacklist_type": "Вы не можете поставить этот блок Nova в этом мире.",
-  "nova.tile_entity_limits.deny_limit": "Вы больше не можете ставить блоки этого вида."
+  "nova.tile_entity_limits.deny_limit": "Вы больше не можете ставить блоки этого вида.",
+  "nova.outdated_version": "§cYou're running an outdated version of §bNova§c.\nPlease download the latest version at %s"
 }
