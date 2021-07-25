@@ -214,5 +214,6 @@
   "advancement.nova.wireless_charger.description": "Stelle ein kabelloses Ladegerät her",
   "nova.tile_entity_limits.deny_blacklist": "In dieser Welt sind keine Blöcke von Nova erlaubt.",
   "nova.tile_entity_limits.deny_blacklist_type": "Dieser Block darf nicht in dieser Welt platziert werden.",
-  "nova.tile_entity_limits.deny_limit": "Du hast das Limit für diesen Block-Typ erreicht."
+  "nova.tile_entity_limits.deny_limit": "Du hast das Limit für diesen Block-Typ erreicht.",
+  "nova.outdated_version": "§cDu benutzt eine veraltete Version von §bNova§c.\nBitte lade dir hier die neuste Version herunter: "
 }
