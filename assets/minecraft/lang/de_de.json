@@ -215,5 +215,5 @@
   "nova.tile_entity_limits.deny_blacklist": "In dieser Welt sind keine Blöcke von Nova erlaubt.",
   "nova.tile_entity_limits.deny_blacklist_type": "Dieser Block darf nicht in dieser Welt platziert werden.",
   "nova.tile_entity_limits.deny_limit": "Du hast das Limit für diesen Block-Typ erreicht.",
-  "nova.outdated_version": "§cYou're running an outdated version of §bNova§c.\nPlease download the latest version at"
+  "nova.outdated_version": "§cDu benutzt eine veraltete Version von §bNova§c.\nBitte lade dir hier die neuste Version herunter: "
 }
