@@ -215,5 +215,5 @@
   "nova.tile_entity_limits.deny_blacklist": "Você não tem permissão para adicionar nenhum bloco do Nova neste mundo.",
   "nova.tile_entity_limits.deny_blacklist_type": "Você não tem permissão para adicionar esse bloco neste mundo.",
   "nova.tile_entity_limits.deny_limit": "Você não pode adicionar mais blocos desse tipo.",
-  "nova.outdated_version": "§cYou're running an outdated version of §bNova§c.\nPlease download the latest version at"
+  "nova.outdated_version": "§cYou're running an outdated version of §bNova§c.\nPlease download the latest version at "
 }
