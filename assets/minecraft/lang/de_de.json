@@ -135,6 +135,7 @@
   "menu.nova.harvester": "Erntemaschine",
   "menu.nova.fertilizer": "Düngerstreuer",
   "menu.nova.wireless_charger": "Kabelloses Ladegerät",
+  "menu.nova.upgrades": "Upgrades",
   "command.nova.give.success": "Das Item %s wurde zu deinem Inventar hinzugefügt.",
   "command.nova.list_nearby.success": "Von den %s Rüstungsständern in deinem Chunk sind %s Teil einer TileEntity.",
   "command.nova.get_nearest_data.failed": "Es konnte keine TileEntity in deiner Nähe gefunden werden.",
