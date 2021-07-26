@@ -138,6 +138,7 @@
   "menu.nova.harvester": "Harvester",
   "menu.nova.fertilizer": "Fertilizer",
   "menu.nova.wireless_charger": "Wireless Charger",
+  "menu.nova.upgrades": "Upgrades",
 
   "command.nova.give.success": "The item %s has been added to your inventory.",
   "command.nova.list_nearby.success": "Out of the %s armor stands in your chunk, %s are part of a tile entity.",

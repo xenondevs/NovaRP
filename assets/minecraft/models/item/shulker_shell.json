@@ -396,6 +396,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 9121
+      },
+      "model": "nova:item/button/upgrades"
+     },
+     {
+      "predicate": {
         "custom_model_data": 9500
       },
       "model": "nova:item/placeholder/hoe"
