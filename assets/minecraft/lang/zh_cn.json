@@ -138,6 +138,7 @@
   "menu.nova.fertilizer": "施肥机",
   "menu.nova.wireless_charger": "无线充电器",
   "menu.nova.upgrades": "Upgrades",
+  "menu.nova.upgrades.coming-soon": "Coming Soon!",
   "menu.nova.auto_fisher": "Auto Fisher",
   "menu.nova.auto_fisher.idle": "Next fish in %s ticks",
   "command.nova.give.success": "成功给予 %s 到你的物品栏中.",
