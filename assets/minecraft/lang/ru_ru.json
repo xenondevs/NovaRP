@@ -135,6 +135,7 @@
   "menu.nova.harvester": "Сборщик урожая",
   "menu.nova.fertilizer": "Удобритель",
   "menu.nova.wireless_charger": "Wireless Charger",
+  "menu.nova.upgrades": "Upgrades",
   "command.nova.give.success": "Предмет %s был добавлен в ваш инвентарь.",
   "command.nova.list_nearby.success": "Вне %s стойка брони в чанке, %s часть сущности.",
   "command.nova.get_nearest_data.failed": "Невозможно найти сущность в этом чанке.",
