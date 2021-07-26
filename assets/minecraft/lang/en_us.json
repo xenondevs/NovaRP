@@ -141,6 +141,7 @@
   "menu.nova.fertilizer": "Fertilizer",
   "menu.nova.wireless_charger": "Wireless Charger",
   "menu.nova.upgrades": "Upgrades",
+  "menu.nova.upgrades.coming-soon": "Coming Soon!",
   "menu.nova.auto_fisher": "Auto Fisher",
   "menu.nova.auto_fisher.idle": "Next fish in %s ticks",
 
