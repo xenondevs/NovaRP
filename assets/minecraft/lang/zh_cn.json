@@ -135,6 +135,7 @@
   "menu.nova.harvester": "收割机",
   "menu.nova.fertilizer": "施肥机",
   "menu.nova.wireless_charger": "无线充电器",
+  "menu.nova.upgrades": "Upgrades",
   "command.nova.give.success": "成功给予 %s 到你的物品栏中.",
   "command.nova.list_nearby.success": "在你所处区块的 %s 个盔甲架中, %s 个是 tile 实体.",
   "command.nova.get_nearest_data.failed": "无法找到在附近找到 tile 实体.",
