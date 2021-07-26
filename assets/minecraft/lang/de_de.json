@@ -138,6 +138,7 @@
   "menu.nova.fertilizer": "Düngerstreuer",
   "menu.nova.wireless_charger": "Kabelloses Ladegerät",
   "menu.nova.upgrades": "Verbesserungen",
+  "menu.nova.upgrades.coming-soon": "Bald verfügbar!",
   "menu.nova.auto_fisher": "Auto-Fischer",
   "menu.nova.auto_fisher.idle": "Nächster Fisch in %s ticks",
   "command.nova.give.success": "Das Item %s wurde zu deinem Inventar hinzugefügt.",
