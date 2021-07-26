@@ -135,6 +135,7 @@
   "menu.nova.harvester": "Harvester",
   "menu.nova.fertilizer": "Fertilizer",
   "menu.nova.wireless_charger": "Wireless Charger",
+  "menu.nova.upgrades": "Upgrades",
   "command.nova.give.success": "O item %s foi adicionado ao seu inventário.",
   "command.nova.list_nearby.success": "Dos %s suportes de armadura na sua chunk, %s são parte de uma entidade de tile.",
   "command.nova.get_nearest_data.failed": "Não foi possível encontrar um tile de entidade por perto",
