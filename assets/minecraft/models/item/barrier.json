@@ -162,6 +162,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "nova:block/auto_fisher"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"

@@ -431,6 +431,12 @@
       "model": "nova:item/placeholder/bottled_mob"
      },
      {
+      "predicate": {
+        "custom_model_data": 9505
+      },
+      "model": "nova:item/placeholder/fishing_rod"
+     },
+     {
        "predicate": {
          "custom_model_data": 10000
        },
