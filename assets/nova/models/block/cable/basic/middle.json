@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "nova:block/cable/middle",
-	"textures": {
-		"0": "nova:block/cable/basic"
-	}
-}
