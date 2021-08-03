@@ -31,6 +31,11 @@
   "block.nova.wireless_charger": "Wireless Charger",
   "block.nova.auto_fisher": "Auto Fisher",
   "block.nova.lightning_exchanger": "Lightning Exchanger",
+  "block.nova.basic_machine_frame": "Basic Machine Frame",
+  "block.nova.advanced_machine_frame": "Advanced Machine Frame",
+  "block.nova.elite_machine_frame": "Elite Machine Frame",
+  "block.nova.ultimate_machine_frame": "Ultimate Machine Frame",
+  "block.nova.creative_machine_frame": "Creative Machine Frame",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -56,6 +61,7 @@
   "item.nova.coal_dust": "Coal Dust",
   "item.nova.lapis_dust": "Lapis Dust",
   "item.nova.copper_dust": "Copper Dust",
+  "item.nova.star_dust": "Star Dust",
   "item.nova.netherite_drill": "Netherite Drill",
   "item.nova.solar_cell": "Solar Cell",
   "item.nova.bottled_mob": "Bottled Mob",
@@ -64,6 +70,7 @@
   "item.nova.item_filter": "Item Filter",
   "item.nova.jetpack": "Jetpack",
   "item.nova.scaffolding": "Quarry Scaffolding",
+  "item.nova.star_shards": "Star Shards",
 
   "inventory.nova.default": "Inventory",
   "inventory.nova.fuel": "Fuel Inventory",

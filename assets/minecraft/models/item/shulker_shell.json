@@ -149,6 +149,12 @@
        "model": "nova:item/copper_dust"
      },
      {
+       "predicate": {
+         "custom_model_data": 1028
+       },
+       "model": "nova:item/star_dust"
+     },
+     {
       "predicate": {
         "custom_model_data": 1030
       },
@@ -165,6 +171,42 @@
         "custom_model_data": 1032
       },
       "model": "nova:item/bottle_mob"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 1033
+      },
+      "model": "nova:item/star_shards"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 1034
+      },
+      "model": "nova:block/machine_frame/basic"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 1035
+      },
+      "model": "nova:block/machine_frame/advanced"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 1036
+      },
+      "model": "nova:block/machine_frame/elite"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 1037
+      },
+      "model": "nova:block/machine_frame/ultimate"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 1038
+      },
+      "model": "nova:block/machine_frame/creative"
      },
      {
        "predicate": {
