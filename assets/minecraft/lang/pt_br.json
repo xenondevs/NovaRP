@@ -86,6 +86,7 @@
   "menu.nova.recipe.pulverize": "Pulverizando",
   "menu.nova.recipe.plate": "Prensando Placa",
   "menu.nova.recipe.gear": "Prensando Engrenagem",
+  "menu.nova.recipe.time": "Time: %ss",
   "menu.nova.side_config": "Configuração Lateral",
   "menu.nova.side_config.energy": "Configuração Lateral de Energia",
   "menu.nova.side_config.item": "Configuração Lateral de Itens",
