@@ -86,6 +86,7 @@
   "menu.nova.recipe.pulverize": "粉碎",
   "menu.nova.recipe.plate": "冲压（板）",
   "menu.nova.recipe.gear": "冲压（齿轮）",
+  "menu.nova.recipe.time": "Time: %ss",
   "menu.nova.side_config": "配置",
   "menu.nova.side_config.energy": "电力配置",
   "menu.nova.side_config.item": "物品配置",
