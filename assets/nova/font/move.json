@@ -1,0 +1,76 @@
+{
+    "providers": [
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF000"
+            ],
+            "height": -3,
+            "ascent": -9999,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF001"
+            ],
+            "height": -4,
+            "ascent": -9999,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF002"
+            ],
+            "height": -6,
+            "ascent": -9999,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF003"
+            ],
+            "height": -10,
+            "ascent": -9999,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF004"
+            ],
+            "height": -18,
+            "ascent": -9999,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF005"
+            ],
+            "height": -34,
+            "ascent": -9999,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF006"
+            ],
+            "height": -66,
+            "ascent": -9999,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:pixel.png",
+            "chars": [
+                "\uF007"
+            ],
+            "height": -130,
+            "ascent": -9999,
+            "type": "bitmap"
+        }
+    ]
+}

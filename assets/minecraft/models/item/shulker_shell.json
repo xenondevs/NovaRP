@@ -444,6 +444,36 @@
      },
      {
       "predicate": {
+        "custom_model_data": 9122
+      },
+      "model": "nova:item/button/arrow_left_on"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9123
+      },
+      "model": "nova:item/button/arrow_left_off"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9124
+      },
+      "model": "nova:item/button/arrow_right_on"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9125
+      },
+      "model": "nova:item/button/arrow_right_off"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9400
+      },
+      "model": "nova:item/icon/stopwatch"
+     },
+     {
+      "predicate": {
         "custom_model_data": 9500
       },
       "model": "nova:item/placeholder/hoe"

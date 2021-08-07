@@ -1,0 +1,49 @@
+{
+    "providers": [
+        {
+            "file": "nova:gui/crafting.png",
+            "chars": [
+                "0"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/furnace.png",
+            "chars": [
+                "1"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/pulverizer.png",
+            "chars": [
+                "2"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/press.png",
+            "chars": [
+                "3"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/conversion.png",
+            "chars": [
+                "4"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        }
+    ]
+}
