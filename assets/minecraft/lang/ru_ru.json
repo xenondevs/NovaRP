@@ -86,6 +86,7 @@
   "menu.nova.recipe.pulverize": "Измельчение",
   "menu.nova.recipe.plate": "Создание пластин",
   "menu.nova.recipe.gear": "Создание шестерёнок",
+  "menu.nova.recipe.time": "Time: %ss",
   "menu.nova.side_config": "Настройка сторон",
   "menu.nova.side_config.energy": "Настройка сторон энергии",
   "menu.nova.side_config.item": "Настройка сторон предметов",
