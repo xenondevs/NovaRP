@@ -86,7 +86,7 @@
   "menu.nova.recipe.pulverize": "Pulverisieren",
   "menu.nova.recipe.plate": "Platten pressen",
   "menu.nova.recipe.gear": "Zahnräder pressen",
-  "menu.nova.recipe.time": "Time: %ss",
+  "menu.nova.recipe.time": "Dauer: %ss",
   "menu.nova.side_config": "Seitenkonfiguration",
   "menu.nova.side_config.energy": "Energie-Konfiguration",
   "menu.nova.side_config.item": "Item-Konfiguration",
