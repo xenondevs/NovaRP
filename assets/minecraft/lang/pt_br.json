@@ -158,6 +158,7 @@
   "command.nova.remove_tile_entities.success": "Removeu %s entidades de tile.",
   "command.nova.network_debug.energy": "Alternou visão de debug para redes de energia",
   "command.nova.network_debug.items": "Alternou visão de debug para redes de item",
+  "command.nova.render_distance": "Your render distance has been set to %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Automação da quebra de blocos",
