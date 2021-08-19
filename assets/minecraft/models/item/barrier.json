@@ -20,7 +20,7 @@
        "predicate": {
          "custom_model_data": 1
        },
-       "model": "nova:block/coal_generator"
+       "model": "nova:block/furnace_generator_off"
      },
      {
        "predicate": {
@@ -80,7 +80,7 @@
       "predicate": {
         "custom_model_data": 11
       },
-      "model": "nova:block/electrical_furnace"
+      "model": "nova:block/electrical_furnace_off"
      },
      {
       "predicate": {
@@ -201,6 +201,30 @@
         "custom_model_data": 5054
       },
       "model": "nova:block/wind_turbine/wind_turbine_rotor_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5060
+      },
+      "model": "nova:block/furnace_generator_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5061
+      },
+      "model": "nova:block/furnace_generator_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5070
+      },
+      "model": "nova:block/electrical_furnace_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5071
+      },
+      "model": "nova:block/electrical_furnace_on"
     }
    ]
  }

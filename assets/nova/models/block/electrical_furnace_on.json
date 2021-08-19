@@ -1,6 +1,6 @@
 {
 	"parent": "nova:block/machine",
 	"textures": {
-		"front": "nova:block/coal_generator"
+		"front": "nova:block/electrical_furnace_on"
 	}
 }
