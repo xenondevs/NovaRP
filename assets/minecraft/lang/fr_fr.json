@@ -158,6 +158,7 @@
   "command.nova.remove_tile_entities.success": "%s tile entities supprimées.",
   "command.nova.network_debug.energy": "Vue de débugage basculée pour les réseaux d'énergie",
   "command.nova.network_debug.items": "Vue de débugage basculée pour les réseaux d'objets",
+  "command.nova.render_distance": "Your render distance has been set to %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Destruction de bloc automatisé",
