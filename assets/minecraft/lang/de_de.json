@@ -158,6 +158,7 @@
   "command.nova.remove_tile_entities.success": "%s TileEntites wurden entfernt.",
   "command.nova.network_debug.energy": "Debug-Ansicht für Energie-Netzwerke umgeschaltet.",
   "command.nova.network_debug.items": "Debug-Ansicht für Item-Netzwerke umgeschaltet.",
+  "command.nova.render_distance": "Your render distance has been set to %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Urlaub für Steve",
