@@ -158,6 +158,7 @@
   "command.nova.remove_tile_entities.success": "Убрана %s сущность.",
   "command.nova.network_debug.energy": "Включён просмотр отладки для сети энергии",
   "command.nova.network_debug.items": "Включён просмотр отладки для сети предметов",
+  "command.nova.render_distance": "Your render distance has been set to %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Автоматическое разрушение блоков",
