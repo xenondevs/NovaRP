@@ -44,6 +44,24 @@
             "height": 135,
             "ascent": 13,
             "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/empty.png",
+            "chars": [
+                "5"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/search.png",
+            "chars": [
+                "6"
+            ],
+            "height": 70,
+            "ascent": 13,
+            "type": "bitmap"
         }
     ]
 }

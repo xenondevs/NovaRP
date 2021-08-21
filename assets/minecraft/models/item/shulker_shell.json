@@ -468,9 +468,21 @@
      },
      {
       "predicate": {
+        "custom_model_data": 9399
+      },
+      "model": "nova:item/icon/invisible"
+     },
+     {
+      "predicate": {
         "custom_model_data": 9400
       },
       "model": "nova:item/icon/stopwatch"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9401
+      },
+      "model": "nova:item/icon/search"
      },
      {
       "predicate": {
