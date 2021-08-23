@@ -222,6 +222,30 @@
      },
      {
       "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "nova:item/speed_upgrade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "nova:item/efficiency_upgrade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2004
+      },
+      "model": "nova:item/energy_upgrade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2005
+      },
+      "model": "nova:item/range_upgrade"
+    },
+     {
+      "predicate": {
         "custom_model_data": 5040
       },
       "model": "nova:item/scaffolding"
@@ -483,6 +507,30 @@
         "custom_model_data": 9401
       },
       "model": "nova:item/icon/search"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9402
+      },
+      "model": "nova:item/icon/upgrade/speed"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9403
+      },
+      "model": "nova:item/icon/upgrade/efficiency"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9404
+      },
+      "model": "nova:item/icon/upgrade/energy"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9405
+      },
+      "model": "nova:item/icon/upgrade/range"
      },
      {
       "predicate": {
