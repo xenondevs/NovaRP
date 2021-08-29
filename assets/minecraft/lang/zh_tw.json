@@ -163,7 +163,7 @@
   "menu.nova.upgrades.type.energy": "Energy Upgrades: %s",
   "menu.nova.upgrades.type.range": "Range Upgrades: %s",
   "menu.nova.upgrades.type.speed.off": "This machine does not accept speed upgrades.",
-  "menu.nova.upgrades.type.efficiency.off": "This machine does not accept efficency upgrades.",
+  "menu.nova.upgrades.type.efficiency.off": "This machine does not accept efficiency upgrades.",
   "menu.nova.upgrades.type.energy.off": "This machine does not accept energy upgrades.",
   "menu.nova.upgrades.type.range.off": "This machine does not accept range upgrades.",
   "menu.nova.auto_fisher": "Auto Fisher",
