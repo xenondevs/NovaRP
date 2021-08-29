@@ -163,7 +163,7 @@
   "menu.nova.upgrades.type.energy": "Улучшение: Энергия: %s",
   "menu.nova.upgrades.type.range": "Улучшение: Радиус: %s",
   "menu.nova.upgrades.type.speed.off": "Этот механизм не принимает улучшение скорости.",
-  "menu.nova.upgrades.type.efficiency.off": "Этот механизм не принимает улучшение эффективности.",
+  "menu.nova.upgrades.type.efficiency.off": "This machine does not accept efficiency upgrades.",
   "menu.nova.upgrades.type.energy.off": "Этот механизм не принимает улучшение энергии.",
   "menu.nova.upgrades.type.range.off": "Этот механизм не принимает улучшение радиуса.",
   "menu.nova.auto_fisher": "Рыболов",
