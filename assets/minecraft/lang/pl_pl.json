@@ -163,7 +163,7 @@
   "menu.nova.upgrades.type.energy": "Ulepszenia energii %s",
   "menu.nova.upgrades.type.range": "Ulepszenia Zakresu: %s",
   "menu.nova.upgrades.type.speed.off": "Ta maszyna nie akceptuje ulepszeń prędkości.",
-  "menu.nova.upgrades.type.efficiency.off": "This machine does not accept efficiency upgrades.",
+  "menu.nova.upgrades.type.efficiency.off": "Ta maszyna nie akceptuje zwiększenia wydajności.",
   "menu.nova.upgrades.type.energy.off": "Ta maszyna nie akceptuje ulepszeń energii.",
   "menu.nova.upgrades.type.range.off": "Ta maszyna nie akceptuje ulepszeń zasięgu.",
   "menu.nova.auto_fisher": "Automatyczna rybiarka",
