@@ -177,6 +177,8 @@
   "command.nova.network_debug.energy": "切换 电力网络 调试视角",
   "command.nova.network_debug.items": "切换 物品网络 调试视角",
   "command.nova.render_distance": "Your render distance has been set to %s.",
+  "command.nova.show_tile_entity_data.success": "This %s has the following data:\n%s",
+  "command.nova.show_tile_entity_data.failure": "Please look at a tile entity and try again",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "解放双手",
