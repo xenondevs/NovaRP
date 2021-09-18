@@ -492,21 +492,27 @@
      },
      {
       "predicate": {
-        "custom_model_data": 9399
+        "custom_model_data": 9300
       },
       "model": "nova:item/icon/invisible"
      },
      {
       "predicate": {
-        "custom_model_data": 9400
+        "custom_model_data": 9301
       },
       "model": "nova:item/icon/stopwatch"
      },
      {
       "predicate": {
-        "custom_model_data": 9401
+        "custom_model_data": 9302
       },
       "model": "nova:item/icon/search"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9303
+      },
+      "model": "nova:item/icon/no_number"
      },
      {
       "predicate": {
@@ -518,19 +524,43 @@
       "predicate": {
         "custom_model_data": 9403
       },
-      "model": "nova:item/icon/upgrade/efficiency"
+      "model": "nova:item/icon/upgrade/translucent_speed"
      },
      {
       "predicate": {
         "custom_model_data": 9404
       },
-      "model": "nova:item/icon/upgrade/energy"
+      "model": "nova:item/icon/upgrade/efficiency"
      },
      {
       "predicate": {
         "custom_model_data": 9405
       },
+      "model": "nova:item/icon/upgrade/translucent_efficiency"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9406
+      },
+      "model": "nova:item/icon/upgrade/energy"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9407
+      },
+      "model": "nova:item/icon/upgrade/translucent_energy"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9408
+      },
       "model": "nova:item/icon/upgrade/range"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 9409
+      },
+      "model": "nova:item/icon/upgrade/translucent_range"
      },
      {
       "predicate": {
