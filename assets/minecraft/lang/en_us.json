@@ -31,11 +31,6 @@
   "block.nova.wireless_charger": "Wireless Charger",
   "block.nova.auto_fisher": "Auto Fisher",
   "block.nova.lightning_exchanger": "Lightning Exchanger",
-  "block.nova.basic_machine_frame": "Basic Machine Frame",
-  "block.nova.advanced_machine_frame": "Advanced Machine Frame",
-  "block.nova.elite_machine_frame": "Elite Machine Frame",
-  "block.nova.ultimate_machine_frame": "Ultimate Machine Frame",
-  "block.nova.creative_machine_frame": "Creative Machine Frame",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -75,6 +70,11 @@
   "item.nova.efficiency_upgrade": "Efficiency Upgrade",
   "item.nova.energy_upgrade": "Energy Upgrade",
   "item.nova.range_upgrade": "Range Upgrade",
+  "item.nova.basic_machine_frame": "Basic Machine Frame",
+  "item.nova.advanced_machine_frame": "Advanced Machine Frame",
+  "item.nova.elite_machine_frame": "Elite Machine Frame",
+  "item.nova.ultimate_machine_frame": "Ultimate Machine Frame",
+  "item.nova.creative_machine_frame": "Creative Machine Frame",
 
   "inventory.nova.default": "Inventory",
   "inventory.nova.fuel": "Fuel Inventory",
