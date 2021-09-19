@@ -158,7 +158,7 @@
   "menu.nova.wireless_charger": "Wireless Charger",
   "menu.nova.upgrades": "Upgrades",
   "menu.nova.upgrades.coming-soon": "Coming Soon!",
-  "menu.nova.upgrades.type.speed": "Speed Upgrades: %s/%s",
+  "menu.nova.upgrades.type.speed": "Mejoras de Velocidad: %s/%s",
   "menu.nova.upgrades.type.efficiency": "Mejoras de Eficiencia: %s/%s",
   "menu.nova.upgrades.type.energy": "Mejoras de Energía: %s/%s",
   "menu.nova.upgrades.type.range": "Mejoras de Rango: %s/%s",
@@ -256,5 +256,5 @@
   "nova.tile_entity_limits.deny_blacklist": "No puedes colocar ningún bloque de Nova en este mundo.",
   "nova.tile_entity_limits.deny_blacklist_type": "No puedes colocar este bloque en este mundo.",
   "nova.tile_entity_limits.deny_limit": "No puedes colocar más bloques de este tipo.",
-  "nova.outdated_version": "§cYou're running an outdated version of §bNova§c.\nPlease download the latest version at "
+  "nova.outdated_version": "§cEstás usando una versión desactualizada de §bNova§c.\nPor favor, descarga la última versión en "
 }
