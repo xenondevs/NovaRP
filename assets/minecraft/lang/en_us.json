@@ -31,6 +31,7 @@
   "block.nova.wireless_charger": "Wireless Charger",
   "block.nova.auto_fisher": "Auto Fisher",
   "block.nova.lightning_exchanger": "Lightning Exchanger",
+  "block.nova.tree_factory": "Tree Factory",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -177,6 +178,7 @@
   "menu.nova.auto_fisher": "Auto Fisher",
   "menu.nova.auto_fisher.idle": "Next fish in %s ticks",
   "menu.nova.lightning_exchanger": "Lightning Exchanger",
+  "menu.nova.tree_factory": "Tree Factory",
 
   "command.nova.give.success": "The item %s has been added to your inventory.",
   "command.nova.list_nearby.success": "Out of the %s armor stands in your chunk, %s are part of a tile entity.",
