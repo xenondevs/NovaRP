@@ -180,6 +180,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "nova:block/trash_can"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
