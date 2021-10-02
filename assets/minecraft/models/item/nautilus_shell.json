@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-      "layer0": "block/poppy"
+      "layer0": "item/nautilus_shell"
     },
     "overrides": [
         {
