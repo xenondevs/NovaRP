@@ -114,7 +114,7 @@
   "menu.nova.side_config.input_output": "§aGirdi & Çıktı",
   "menu.nova.cable_config.insert": "Yerleştir",
   "menu.nova.cable_config.extract": "Çıkart",
-  "menu.nova.cable_config.insert_priority": "Insert Priority: %s",
+  "menu.nova.cable_config.insert_priority": "Önceliği Girin: %s",
   "menu.nova.cable_config.extract_priority": "Önceliği Çıkartın: %s",
   "menu.nova.cable_config.channel": "Kanal: %s",
   "menu.nova.paged.back": "§7Geri dön",
