@@ -606,6 +606,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9507
+      },
+      "model": "nova:item/placeholder/trash_can"
+    },
+    {
+      "predicate": {
         "custom_model_data": 10000
       },
       "model": "nova:item/progress/0"
