@@ -237,6 +237,24 @@
         "custom_model_data": 5071
       },
       "model": "nova:block/electrical_furnace_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5080
+      },
+      "model": "nova:block/star_collector/base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5081
+      },
+      "model": "nova:block/star_collector/rod_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5082
+      },
+      "model": "nova:block/star_collector/rod_on"
     }
    ]
  }
