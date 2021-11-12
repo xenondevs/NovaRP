@@ -193,6 +193,8 @@
   "command.nova.render_distance": "Görüş açınız %s'ye ayarlandı.",
   "command.nova.show_tile_entity_data.success": "Bu %s, bu veriye sahip:\n%s",
   "command.nova.show_tile_entity_data.failure": "Bloğumsu canlıya bakıp birdaha deneyin.",
+  "command.nova.modeldata.item": "The item %s uses %s and has the following custom model data: %s.",
+  "command.nova.modeldata.block": "The block %s uses %s and has the following custom model data: %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Otomatik Blok Kırıcı",
