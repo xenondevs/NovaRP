@@ -193,6 +193,8 @@
   "command.nova.render_distance": "Su distancia de renderizado se ha establecido a %s.",
   "command.nova.show_tile_entity_data.success": "Este %s tiene los siguientes datos:\n%s",
   "command.nova.show_tile_entity_data.failure": "Por favor, mira una entidad de azulejo e inténtalo de nuevo.",
+  "command.nova.modeldata.item": "The item %s uses %s and has the following custom model data: %s.",
+  "command.nova.modeldata.block": "The block %s uses %s and has the following custom model data: %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Rompiendo Bloques Automatizado",
