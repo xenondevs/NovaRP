@@ -197,6 +197,8 @@
   "command.nova.render_distance": "Your render distance has been set to %s.",
   "command.nova.show_tile_entity_data.success": "This %s has the following data:\n%s",
   "command.nova.show_tile_entity_data.failure": "Please look at a tile entity and try again.",
+  "command.nova.modeldata.item": "The item %s uses %s and has the following custom model data: %s.",
+  "command.nova.modeldata.block": "The block %s uses %s and has the following custom model data: %s.",
 
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
