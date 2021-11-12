@@ -193,6 +193,8 @@
   "command.nova.render_distance": "您的渲染距离已设置为%s。",
   "command.nova.show_tile_entity_data.success": "此 %s 有以下数据：\n%s",
   "command.nova.show_tile_entity_data.failure": "请看向一个方块实体并重试",
+  "command.nova.modeldata.item": "The item %s uses %s and has the following custom model data: %s.",
+  "command.nova.modeldata.block": "The block %s uses %s and has the following custom model data: %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "解放双手",
