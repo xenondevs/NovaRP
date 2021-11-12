@@ -193,6 +193,8 @@
   "command.nova.render_distance": "Votre distance de rendu a bien été définie à %s.",
   "command.nova.show_tile_entity_data.success": "Ça %s a la data suivante %s",
   "command.nova.show_tile_entity_data.failure": "Veuillez regarder sur la tile entity et réessayer après.",
+  "command.nova.modeldata.item": "The item %s uses %s and has the following custom model data: %s.",
+  "command.nova.modeldata.block": "The block %s uses %s and has the following custom model data: %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Destruction de bloc automatisé",
