@@ -193,6 +193,8 @@
   "command.nova.render_distance": "Deine Renderdistanz wurde auf %s gesetzt.",
   "command.nova.show_tile_entity_data.success": "%s hat folgende Daten:\n%s",
   "command.nova.show_tile_entity_data.failure": "Es konnte keine TileEntity gefunden werden. Schaue eine TileEntity an und versuche es erneut.",
+  "command.nova.modeldata.item": "The item %s uses %s and has the following custom model data: %s.",
+  "command.nova.modeldata.block": "The block %s uses %s and has the following custom model data: %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Urlaub für Steve",
