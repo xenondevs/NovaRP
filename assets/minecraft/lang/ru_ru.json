@@ -193,6 +193,8 @@
   "command.nova.render_distance": "Ваша прорисовка была изменена на: %s.",
   "command.nova.show_tile_entity_data.success": "%s имеет следующие данные:\n%s",
   "command.nova.show_tile_entity_data.failure": "Пожалуйста, посмотрите на сущность и попробуйте ещё раз.",
+  "command.nova.modeldata.item": "The item %s uses %s and has the following custom model data: %s.",
+  "command.nova.modeldata.block": "The block %s uses %s and has the following custom model data: %s.",
   "advancement.nova.root.title": "Nova",
   "advancement.nova.root.description": "",
   "advancement.nova.block_breaker.title": "Автоматическое разрушение блоков",
