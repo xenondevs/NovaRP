@@ -63,7 +63,7 @@
   "item.nova.netherite_drill": "Netherite Drill",
   "item.nova.solar_cell": "Solar Cell",
   "item.nova.bottled_mob": "Bottled Mob",
-  "item.nova.bottled_mob.type": "Type: %s",
+  "item.nova.mob_catcher.type": "Type: %s",
   "item.nova.wrench": "Wrench",
   "item.nova.item_filter": "Item Filter",
   "item.nova.jetpack": "Jetpack",

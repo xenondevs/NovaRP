@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "Foreuse en netherite",
   "item.nova.solar_cell": "Panneau solaire",
   "item.nova.bottled_mob": "Créature en bouteille",
-  "item.nova.bottled_mob.type": "Type: %s",
+  "item.nova.mob_catcher.type": "Type: %s",
   "item.nova.wrench": "Clé à molette",
   "item.nova.item_filter": "Filtre d'objet",
   "item.nova.jetpack": "Jetpack",

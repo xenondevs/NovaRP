@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "Wiertło z Netherytu",
   "item.nova.solar_cell": "Ogniwo słoneczne",
   "item.nova.bottled_mob": "Butelkowane moby",
-  "item.nova.bottled_mob.type": "Typ: %s",
+  "item.nova.mob_catcher.type": "Typ: %s",
   "item.nova.wrench": "Klucz",
   "item.nova.item_filter": "Filtr obiektów",
   "item.nova.jetpack": "Plecak odrzutowy",

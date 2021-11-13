@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "下界合金钻头",
   "item.nova.solar_cell": "太阳能电池",
   "item.nova.bottled_mob": "瓶装生物",
-  "item.nova.bottled_mob.type": "生物种类: %s",
+  "item.nova.mob_catcher.type": "生物种类: %s",
   "item.nova.wrench": "扳手",
   "item.nova.item_filter": "物品过滤器",
   "item.nova.jetpack": "电力喷气背包",

@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "獄髓鑽頭",
   "item.nova.solar_cell": "太陽能電池",
   "item.nova.bottled_mob": "瓶裝生物",
-  "item.nova.bottled_mob.type": "類型: %s",
+  "item.nova.mob_catcher.type": "類型: %s",
   "item.nova.wrench": "扳手",
   "item.nova.item_filter": "物品過濾器",
   "item.nova.jetpack": "噴射背包",
