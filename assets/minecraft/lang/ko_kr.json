@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "네더라이트 드릴",
   "item.nova.solar_cell": "태양광 패널",
   "item.nova.bottled_mob": "병에 담아진 몹",
-  "item.nova.bottled_mob.type": "타입: %s",
+  "item.nova.mob_catcher.type": "Type: %s",
   "item.nova.wrench": "렌치",
   "item.nova.item_filter": "아이템 필터",
   "item.nova.jetpack": "제트팩",
