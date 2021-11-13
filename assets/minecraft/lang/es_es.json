@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "Taladro de Netherita",
   "item.nova.solar_cell": "Celda Solar",
   "item.nova.bottled_mob": "Embotellador de Mobs",
-  "item.nova.bottled_mob.type": "%s",
+  "item.nova.mob_catcher.type": "Type: %s",
   "item.nova.wrench": "Llave Inglesa",
   "item.nova.item_filter": "Filtro de Ítems",
   "item.nova.jetpack": "Mochila Propulsora",
