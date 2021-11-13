@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "Broca de Netherito",
   "item.nova.solar_cell": "Célula Solar",
   "item.nova.bottled_mob": "Mob Engarrafado",
-  "item.nova.bottled_mob.type": "Tipo: %s",
+  "item.nova.mob_catcher.type": "Type: %s",
   "item.nova.wrench": "Chave Inglesa",
   "item.nova.item_filter": "Filtro de Itens",
   "item.nova.jetpack": "Mochila à Jato",
