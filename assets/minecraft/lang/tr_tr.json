@@ -62,7 +62,7 @@
   "item.nova.netherite_drill": "Netherit Matkap",
   "item.nova.solar_cell": "Güneş Paneli Hücresi",
   "item.nova.bottled_mob": "Şişede Yaratık",
-  "item.nova.bottled_mob.type": "Türü: %s",
+  "item.nova.mob_catcher.type": "Type: %s",
   "item.nova.wrench": "İngiliz Anahtarı",
   "item.nova.item_filter": "Eşya Filtresi",
   "item.nova.jetpack": "Jetpack",
