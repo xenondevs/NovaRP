@@ -63,7 +63,7 @@
   "item.nova.netherite_drill": "Netherit-Bohrer",
   "item.nova.solar_cell": "Solarzelle",
   "item.nova.mob_catcher": "Mob Catcher",
-  "item.nova.mob_catcher.type": "Type: %s",
+  "item.nova.mob_catcher.type": "Typ: %s",
   "item.nova.wrench": "Schraubenschlüssel",
   "item.nova.item_filter": "Itemfilter",
   "item.nova.jetpack": "Jetpack",

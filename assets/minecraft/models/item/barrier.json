@@ -255,6 +255,12 @@
         "custom_model_data": 5082
       },
       "model": "nova:block/star_collector/rod_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5090
+      },
+      "model": "nova:block/fluid_tank/empty"
     }
    ]
  }

@@ -63,7 +63,7 @@
   "item.nova.netherite_drill": "Незеритовая дрель",
   "item.nova.solar_cell": "Солнечная ячейка",
   "item.nova.mob_catcher": "Mob Catcher",
-  "item.nova.mob_catcher.type": "Type: %s",
+  "item.nova.mob_catcher.type": "Тип: %s",
   "item.nova.wrench": "Гаечный ключ",
   "item.nova.item_filter": "Предметный фильтр",
   "item.nova.jetpack": "Джетпак",

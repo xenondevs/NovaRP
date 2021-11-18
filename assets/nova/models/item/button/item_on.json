@@ -1,6 +1,0 @@
-{
-  "parent": "nova:item/icon_template",
-  "textures": {
-    "1": "nova:item/button/item_on"
-  }
-}

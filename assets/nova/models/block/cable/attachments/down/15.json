@@ -1,0 +1,6 @@
+{
+	"parent": "nova:block/cable/attachment_down",
+	"textures": {
+		"2": "nova:block/cable/attachment/15"
+	}
+}

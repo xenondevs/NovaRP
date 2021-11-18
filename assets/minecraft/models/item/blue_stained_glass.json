@@ -1,0 +1,168 @@
+{
+    "parent": "block/blue_stained_glass",
+    "overrides": [
+        {
+            "predicate": {
+              "custom_model_data": 5090
+            },
+            "model": "nova:block/fluid_tank/empty"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5091
+            },
+            "model": "nova:block/fluid_tank/lava/1"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5092
+            },
+            "model": "nova:block/fluid_tank/lava/2"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5093
+            },
+            "model": "nova:block/fluid_tank/lava/3"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5094
+            },
+            "model": "nova:block/fluid_tank/lava/4"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5095
+            },
+            "model": "nova:block/fluid_tank/lava/5"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5096
+            },
+            "model": "nova:block/fluid_tank/lava/6"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5097
+            },
+            "model": "nova:block/fluid_tank/lava/7"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5098
+            },
+            "model": "nova:block/fluid_tank/lava/8"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5099
+            },
+            "model": "nova:block/fluid_tank/lava/9"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5100
+            },
+            "model": "nova:block/fluid_tank/lava/10"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5101
+            },
+            "model": "nova:block/fluid_tank/lava/11"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5102
+            },
+            "model": "nova:block/fluid_tank/lava/12"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5103
+            },
+            "model": "nova:block/fluid_tank/lava/13"
+          },
+      
+          {
+            "predicate": {
+              "custom_model_data": 5104
+            },
+            "model": "nova:block/fluid_tank/water/1"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5105
+            },
+            "model": "nova:block/fluid_tank/water/2"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5106
+            },
+            "model": "nova:block/fluid_tank/water/3"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5107
+            },
+            "model": "nova:block/fluid_tank/water/4"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5108
+            },
+            "model": "nova:block/fluid_tank/water/5"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5109
+            },
+            "model": "nova:block/fluid_tank/water/6"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5110
+            },
+            "model": "nova:block/fluid_tank/water/7"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5111
+            },
+            "model": "nova:block/fluid_tank/water/8"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5112
+            },
+            "model": "nova:block/fluid_tank/water/9"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5113
+            },
+            "model": "nova:block/fluid_tank/water/10"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5114
+            },
+            "model": "nova:block/fluid_tank/water/11"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5115
+            },
+            "model": "nova:block/fluid_tank/water/12"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 5116
+            },
+            "model": "nova:block/fluid_tank/water/13"
+          }
+    ]
+}
