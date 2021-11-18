@@ -34,6 +34,7 @@
   "block.nova.tree_factory": "Tree Factory",
   "block.nova.trash_can": "Trash Can",
   "block.nova.star_collector": "Star Collector",
+  "block.nova.fluid_tank": "Fluid Tank",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -89,6 +90,8 @@
   "inventory.nova.fertilizer": "Fertilizers Inventory",
   "inventory.nova.fishing_rod": "Fishing Rod Inventory",
 
+  "container.nova.fluid_tank": "Fluid Tank",
+
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.items": "Items",
   "menu.nova.items.search": "Search for an Item",
@@ -104,8 +107,9 @@
   "menu.nova.recipe.gear": "Gear Pressing",
   "menu.nova.recipe.time": "Time: %ss",
   "menu.nova.side_config": "Side Config",
-  "menu.nova.side_config.energy": "Energy Side Config",
-  "menu.nova.side_config.item": "Item Side Config",
+  "menu.nova.side_config.energy": "Energy",
+  "menu.nova.side_config.items": "Items",
+  "menu.nova.side_config.fluids": "Fluids",
   "menu.nova.side_config.front": "§7Front",
   "menu.nova.side_config.left": "§7Left",
   "menu.nova.side_config.back": "§7Back",
@@ -185,6 +189,7 @@
   "menu.nova.star_collector": "Star Collector",
   "menu.nova.star_collector.idle": "Searching for Star Dust...",
   "menu.nova.star_collector.collection": "Collecting Star Dust...",
+  "menu.nova.fluid_tank": "Fluid Tank",
 
   "command.nova.no-players": "No players could be found.",
   "command.nova.give.success": "Gave %s %s to %s",
