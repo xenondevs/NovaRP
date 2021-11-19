@@ -186,6 +186,36 @@
      },
      {
       "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "nova:block/fluid_tank/basic"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "nova:block/fluid_tank/advanced"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "nova:block/fluid_tank/elite"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "nova:block/fluid_tank/ultimate"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "nova:block/fluid_tank/creative"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"

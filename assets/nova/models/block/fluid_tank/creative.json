@@ -1,0 +1,7 @@
+{
+	"parent": "nova:block/fluid_tank/fluid_tank",
+	"textures": {
+		"2": "nova:block/fluid_tank/creative/side",
+		"3": "nova:block/fluid_tank/creative/top"
+	}
+}
