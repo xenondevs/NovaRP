@@ -39,6 +39,7 @@
   "block.nova.elite_fluid_tank": "Elite Fluid Tank",
   "block.nova.ultimate_fluid_tank": "Ultimate Fluid Tank",
   "block.nova.creative_fluid_tank": "Creative Fluid Tank",
+  "block.nova.lava_generator": "Lava Generator",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -97,6 +98,7 @@
   "inventory.nova.fishing_rod": "Fishing Rod Inventory",
 
   "container.nova.fluid_tank": "Fluid Tank",
+  "container.nova.lava_tank": "Lava Tank",
 
   "menu.nova.energy_per_tick": "%s / tick",
   "menu.nova.items": "Items",
@@ -162,10 +164,12 @@
   "menu.nova.upgrades.type.efficiency": "Efficiency Upgrades: %s/%s",
   "menu.nova.upgrades.type.energy": "Energy Upgrades: %s/%s",
   "menu.nova.upgrades.type.range": "Range Upgrades: %s/%s",
+  "menu.nova.upgrades.type.fluid": "Fluid Upgrades: %s/%s",
   "menu.nova.upgrades.type.speed.off": "This machine does not accept speed upgrades.",
   "menu.nova.upgrades.type.efficiency.off": "This machine does not accept efficiency upgrades.",
   "menu.nova.upgrades.type.energy.off": "This machine does not accept energy upgrades.",
   "menu.nova.upgrades.type.range.off": "This machine does not accept range upgrades.",
+  "menu.nova.upgrades.type.fluid.off": "This machine does not accept fluid upgrades.",
   "menu.nova.auto_fisher.idle": "Next fish in %s ticks",
   "menu.nova.lightning_exchanger": "Lightning Exchanger",
   "menu.nova.star_collector.idle": "Searching for Star Dust...",

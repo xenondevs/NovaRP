@@ -1,0 +1,6 @@
+{
+	"parent": "nova:block/machine",
+	"textures": {
+		"front": "nova:block/lava_generator_off"
+	}
+}

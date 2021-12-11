@@ -290,7 +290,13 @@
       "predicate": {
         "custom_model_data": 5090
       },
-      "model": "nova:block/fluid_tank/empty"
+      "model": "nova:block/lava_generator_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5091
+      },
+      "model": "nova:block/lava_generator_on"
     }
    ]
  }

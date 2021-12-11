@@ -246,6 +246,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 2006
+      },
+      "model": "nova:item/fluid_upgrade"
+    },
+    {
+      "predicate": {
         "custom_model_data": 5040
       },
       "model": "nova:item/scaffolding"
@@ -591,6 +597,18 @@
         "custom_model_data": 9409
       },
       "model": "nova:item/icon/upgrade/translucent_range"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9410
+      },
+      "model": "nova:item/icon/upgrade/fluid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9411
+      },
+      "model": "nova:item/icon/upgrade/translucent_fluid"
     },
     {
       "predicate": {
