@@ -216,6 +216,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "nova:block/infinite_water_source"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
