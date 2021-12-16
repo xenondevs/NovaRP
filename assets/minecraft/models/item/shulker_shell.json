@@ -170,7 +170,7 @@
       "predicate": {
         "custom_model_data": 1032
       },
-      "model": "nova:item/bottle_mob"
+      "model": "nova:item/mob_catcher"
     },
     {
       "predicate": {
