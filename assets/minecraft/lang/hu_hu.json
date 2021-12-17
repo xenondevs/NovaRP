@@ -79,6 +79,7 @@
   "item.nova.efficiency_upgrade": "Efficiency Upgrade",
   "item.nova.energy_upgrade": "Energy Upgrade",
   "item.nova.range_upgrade": "Range Upgrade",
+  "item.nova.fluid_upgrade": "Fluid Upgrade",
   "item.nova.basic_machine_frame": "Basic Machine Frame",
   "item.nova.advanced_machine_frame": "Advanced Machine Frame",
   "item.nova.elite_machine_frame": "Elite Machine Frame",
