@@ -173,7 +173,7 @@
   "menu.nova.star_collector.collection": "Collecte de Poussière d'étoile, en cour...",
   "command.nova.no-players": "No players could be found.",
   "command.nova.no-item-in-hand": "Hold an item in your hand and try again.",
-  "command.nova.give.success": "Gave %s %s to %s",
+  "command.nova.give.success": "A donné %s %s à %s",
   "command.nova.list_nearby.success": "Sur les %s porte armures dans ce tronçon, %s sont des tile entity.",
   "command.nova.get_nearest_data.failed": "Impossible de trouver une tile entity à proximité.",
   "command.nova.remove_obsolete_models.success": "%s porte armures supprimés.",
