@@ -528,6 +528,24 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9135
+      },
+      "model": "nova:item/button/cobblestone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9136
+      },
+      "model": "nova:item/button/stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9137
+      },
+      "model": "nova:item/button/obsidian"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9300
       },
       "model": "nova:item/icon/invisible"

@@ -3,6 +3,30 @@
     "overrides": [
       {
         "predicate": {
+          "custom_model_data": 5400
+        },
+        "model": "nova:block/cobblestone_generator/empty"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5401
+        },
+        "model": "nova:block/cobblestone_generator/water"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5402
+        },
+        "model": "nova:block/cobblestone_generator/lava"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5403
+        },
+        "model": "nova:block/cobblestone_generator/full"
+      },
+      {
+        "predicate": {
           "custom_model_data": 190000
         },
         "model": "nova:block/fluid/lava/0"
