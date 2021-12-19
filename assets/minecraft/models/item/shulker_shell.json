@@ -570,6 +570,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9304
+      },
+      "model": "nova:item/button/pump_pump_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9305
+      },
+      "model": "nova:item/button/pump_replace_icon"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9402
       },
       "model": "nova:item/icon/upgrade/speed"
