@@ -16,7 +16,7 @@ jobs:
         uses: thedoctor0/zip-release@master
         with:
           type: "zip"
-          filename: "ResourcePack.zip"
+          filename: "NovaRP.zip"
           exclusions: "*.git* *.gitignore *crowdin.yml *README.md"
 
       - name: Upload Artifacts
