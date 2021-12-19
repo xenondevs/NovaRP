@@ -222,6 +222,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "nova:block/pump"
+     },
+     {
+      "predicate": {
         "custom_model_data": 36
       },
       "model": "nova:block/cobblestone_generator"
