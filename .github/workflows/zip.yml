@@ -5,6 +5,8 @@ on:
     branches:
       - main
       - complete
+  release:
+    types: [ created ]
 
 jobs:
   build:
