@@ -668,7 +668,7 @@
       "predicate": {
         "custom_model_data": 9504
       },
-      "model": "nova:item/placeholder/bottled_mob"
+      "model": "nova:item/placeholder/mob_catcher"
     },
     {
       "predicate": {
