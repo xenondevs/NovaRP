@@ -25,3 +25,11 @@ jobs:
         with:
           name: Artifacts
           path: NovaRP.zip
+
+      - name: Publish Artifacts
+        if: github.event_name == 'release'
+        uses: skx/github-action-publish-binaries@release-2.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: NovaRP.zip
