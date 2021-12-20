@@ -1,6 +1,0 @@
-{
-	"parent": "nova:block/cable/attachment_horizontal",
-	"textures": {
-		"2": "nova:block/cable/attachment_out"
-	}
-}

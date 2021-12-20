@@ -1,0 +1,35 @@
+name: Pack ZIP
+
+on:
+  push:
+    branches:
+      - main
+      - complete
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Pack ZIP
+        uses: thedoctor0/zip-release@master
+        with:
+          type: "zip"
+          filename: "NovaRP.zip"
+          exclusions: "*.git* *.gitignore *crowdin.yml *README.md"
+
+      - name: Upload Artifacts
+        id: upload
+        uses: actions/upload-artifact@v2
+        with:
+          name: Artifacts
+          path: NovaRP.zip
+
+      - name: Publish Artifacts
+        if: github.event_name == 'release'
+        uses: skx/github-action-publish-binaries@release-2.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: NovaRP.zip

@@ -186,6 +186,54 @@
      },
      {
       "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "nova:block/fluid_tank/basic"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "nova:block/fluid_tank/advanced"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "nova:block/fluid_tank/elite"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "nova:block/fluid_tank/ultimate"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "nova:block/fluid_tank/creative"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "nova:block/infinite_water_source"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "nova:block/pump"
+     },
+     {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "nova:block/cobblestone_generator"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
@@ -255,6 +303,24 @@
         "custom_model_data": 5082
       },
       "model": "nova:block/star_collector/rod_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5090
+      },
+      "model": "nova:block/lava_generator_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5091
+      },
+      "model": "nova:block/lava_generator_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5400
+      },
+      "model": "nova:block/cobblestone_generator/empty"
     }
    ]
  }

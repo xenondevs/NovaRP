@@ -170,7 +170,7 @@
       "predicate": {
         "custom_model_data": 1032
       },
-      "model": "nova:item/bottle_mob"
+      "model": "nova:item/mob_catcher"
     },
     {
       "predicate": {
@@ -243,6 +243,12 @@
         "custom_model_data": 2005
       },
       "model": "nova:item/range_upgrade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2006
+      },
+      "model": "nova:item/fluid_upgrade"
     },
     {
       "predicate": {
@@ -366,30 +372,6 @@
     },
     {
       "predicate": {
-        "custom_model_data": 9105
-      },
-      "model": "nova:item/button/energy_on"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9106
-      },
-      "model": "nova:item/button/energy_off"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9107
-      },
-      "model": "nova:item/button/item_on"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9108
-      },
-      "model": "nova:item/button/item_off"
-    },
-    {
-      "predicate": {
         "custom_model_data": 9109
       },
       "model": "nova:item/button/whitelist"
@@ -492,6 +474,78 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9126
+      },
+      "model": "nova:item/button/energy_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9127
+      },
+      "model": "nova:item/button/energy_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9128
+      },
+      "model": "nova:item/button/energy_selected"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9129
+      },
+      "model": "nova:item/button/items_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9130
+      },
+      "model": "nova:item/button/items_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9131
+      },
+      "model": "nova:item/button/items_selected"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9132
+      },
+      "model": "nova:item/button/fluids_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9133
+      },
+      "model": "nova:item/button/fluids_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9134
+      },
+      "model": "nova:item/button/fluids_selected"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9135
+      },
+      "model": "nova:item/button/cobblestone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9136
+      },
+      "model": "nova:item/button/stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9137
+      },
+      "model": "nova:item/button/obsidian"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9300
       },
       "model": "nova:item/icon/invisible"
@@ -513,6 +567,18 @@
         "custom_model_data": 9303
       },
       "model": "nova:item/icon/no_number"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9304
+      },
+      "model": "nova:item/button/pump_pump_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9305
+      },
+      "model": "nova:item/button/pump_replace_icon"
     },
     {
       "predicate": {
@@ -564,6 +630,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9410
+      },
+      "model": "nova:item/icon/upgrade/fluid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9411
+      },
+      "model": "nova:item/icon/upgrade/translucent_fluid"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9500
       },
       "model": "nova:item/placeholder/hoe"
@@ -590,7 +668,7 @@
       "predicate": {
         "custom_model_data": 9504
       },
-      "model": "nova:item/placeholder/bottled_mob"
+      "model": "nova:item/placeholder/mob_catcher"
     },
     {
       "predicate": {
@@ -1263,6 +1341,108 @@
         "custom_model_data": 10614
       },
       "model": "nova:item/pulverizer/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10700
+      },
+      "model": "nova:item/bar_orange/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10701
+      },
+      "model": "nova:item/bar_orange/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10702
+      },
+      "model": "nova:item/bar_orange/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10703
+      },
+      "model": "nova:item/bar_orange/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10704
+      },
+      "model": "nova:item/bar_orange/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10705
+      },
+      "model": "nova:item/bar_orange/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10706
+      },
+      "model": "nova:item/bar_orange/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10707
+      },
+      "model": "nova:item/bar_orange/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10708
+      },
+      "model": "nova:item/bar_orange/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10709
+      },
+      "model": "nova:item/bar_orange/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10710
+      },
+      "model": "nova:item/bar_orange/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10711
+      },
+      "model": "nova:item/bar_orange/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10712
+      },
+      "model": "nova:item/bar_orange/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10713
+      },
+      "model": "nova:item/bar_orange/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10714
+      },
+      "model": "nova:item/bar_orange/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10715
+      },
+      "model": "nova:item/bar_orange/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10716
+      },
+      "model": "nova:item/bar_orange/16"
     },
     {
       "predicate": {
