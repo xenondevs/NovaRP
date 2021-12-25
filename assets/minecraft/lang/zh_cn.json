@@ -87,7 +87,7 @@
   "item.nova.elite_machine_frame": "精英机器框架",
   "item.nova.ultimate_machine_frame": "究极机器框架",
   "item.nova.creative_machine_frame": "创世机器框架",
-  "tooltip.nova.fluid": "%s: %s mB / %s mB",
+  "tooltip.nova.fluid": "%s: %s 毫桶 / %s 毫桶",
   "inventory.nova.default": "物品",
   "inventory.nova.fuel": "燃料",
   "inventory.nova.input": "输入",
