@@ -87,7 +87,6 @@
   "item.nova.elite_machine_frame": "Telaio Macchina Elite",
   "item.nova.ultimate_machine_frame": "Telaio Macchina Ultimate",
   "item.nova.creative_machine_frame": "Telaio Macchina Creative",
-  "tooltip.nova.fluid": "%s: %s mB / %s mB",
   "inventory.nova.default": "Inventario",
   "inventory.nova.fuel": "Inventario Carburante",
   "inventory.nova.input": "Inventario Input",

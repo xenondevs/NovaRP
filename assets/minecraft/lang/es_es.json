@@ -87,7 +87,6 @@
   "item.nova.elite_machine_frame": "Marco Elite De Máquina",
   "item.nova.ultimate_machine_frame": "Marco Ultimo De Máquina",
   "item.nova.creative_machine_frame": "Marco Creativo De Máquina",
-  "tooltip.nova.fluid": "%s: %s ml/ %s ml",
   "inventory.nova.default": "Inventario",
   "inventory.nova.fuel": "Inventario de Combustible",
   "inventory.nova.input": "Inventario De Entrada",
