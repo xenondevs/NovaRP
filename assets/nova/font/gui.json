@@ -62,6 +62,51 @@
             "height": 70,
             "ascent": 13,
             "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/0.png",
+            "chars": [
+                "a"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/1.png",
+            "chars": [
+                "b"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/2.png",
+            "chars": [
+                "c"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/3.png",
+            "chars": [
+                "d"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/4.png",
+            "chars": [
+                "e"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
         }
     ]
 }
