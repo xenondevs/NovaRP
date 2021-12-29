@@ -87,7 +87,6 @@
   "item.nova.elite_machine_frame": "Elite Machine Frame",
   "item.nova.ultimate_machine_frame": "Ultimate Machine Frame",
   "item.nova.creative_machine_frame": "Creative Machine Frame",
-  "tooltip.nova.fluid": "%s: %s mB / %s mB",
   "inventory.nova.default": "Ekwipunek",
   "inventory.nova.fuel": "Ekwipunek paliwa",
   "inventory.nova.input": "Zapasy wejściowe",
