@@ -64,6 +64,15 @@
             "type": "bitmap"
         },
         {
+            "file": "nova:gui/fluid_infuser.png",
+            "chars": [
+                "7"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
             "file": "nova:gui/creative/0.png",
             "chars": [
                 "a"

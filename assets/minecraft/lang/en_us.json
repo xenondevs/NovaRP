@@ -43,6 +43,7 @@
   "block.nova.infinite_water_source": "Infinite Water Source",
   "block.nova.cobblestone_generator": "Cobblestone Generator",
   "block.nova.pump": "Pump",
+  "block.nova.fluid_infuser": "Fluid Infuser",
 
   "item.nova.iron_plate": "Iron Plate",
   "item.nova.gold_plate": "Gold Plate",
@@ -123,6 +124,8 @@
   "menu.nova.recipe.plate": "Plate Pressing",
   "menu.nova.recipe.gear": "Gear Pressing",
   "menu.nova.recipe.time": "Time: %ss",
+  "menu.nova.recipe.insert_fluid": "Insert %s mB %s",
+  "menu.nova.recipe.extract_fluid": "Extract %s mB %s",
   "menu.nova.side_config": "Side Config",
   "menu.nova.side_config.energy": "Energy",
   "menu.nova.side_config.items": "Items",
@@ -190,6 +193,8 @@
   "menu.nova.cobblestone_generator.mode.obsidian": "Mode: Obsidian",
   "menu.nova.pump.replace_mode": "Mode: Replace Liquids",
   "menu.nova.pump.pump_mode": "Mode: Pump Liquids",
+  "menu.nova.fluid_infuser.mode.insert": "Insert fluids into items",
+  "menu.nova.fluid_infuser.mode.extract": "Extract fluids from items",
 
   "command.nova.no-players": "No players could be found.",
   "command.nova.no-item-in-hand": "Hold an item in your hand and try again.",

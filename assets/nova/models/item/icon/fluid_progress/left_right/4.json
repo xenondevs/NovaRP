@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nova:item/fluid_progress/left_right/4"
+  }
+}

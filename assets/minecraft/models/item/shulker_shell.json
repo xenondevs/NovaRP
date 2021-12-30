@@ -546,6 +546,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9138
+      },
+      "model": "nova:item/button/fluid_left_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9139
+      },
+      "model": "nova:item/button/fluid_right_left"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9300
       },
       "model": "nova:item/icon/invisible"
@@ -1443,6 +1455,618 @@
         "custom_model_data": 10716
       },
       "model": "nova:item/bar_orange/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10800
+      },
+      "model": "nova:item/fluid_progress/left_right/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10801
+      },
+      "model": "nova:item/fluid_progress/left_right/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10802
+      },
+      "model": "nova:item/fluid_progress/left_right/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10803
+      },
+      "model": "nova:item/fluid_progress/left_right/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10804
+      },
+      "model": "nova:item/fluid_progress/left_right/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10805
+      },
+      "model": "nova:item/fluid_progress/left_right/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10806
+      },
+      "model": "nova:item/fluid_progress/left_right/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10807
+      },
+      "model": "nova:item/fluid_progress/left_right/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10808
+      },
+      "model": "nova:item/fluid_progress/left_right/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10809
+      },
+      "model": "nova:item/fluid_progress/left_right/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10810
+      },
+      "model": "nova:item/fluid_progress/left_right/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10811
+      },
+      "model": "nova:item/fluid_progress/left_right/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10812
+      },
+      "model": "nova:item/fluid_progress/left_right/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10813
+      },
+      "model": "nova:item/fluid_progress/left_right/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10814
+      },
+      "model": "nova:item/fluid_progress/left_right/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10815
+      },
+      "model": "nova:item/fluid_progress/left_right/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10816
+      },
+      "model": "nova:item/fluid_progress/left_right/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10900
+      },
+      "model": "nova:item/fluid_progress/right_left/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10901
+      },
+      "model": "nova:item/fluid_progress/right_left/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10902
+      },
+      "model": "nova:item/fluid_progress/right_left/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10903
+      },
+      "model": "nova:item/fluid_progress/right_left/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10904
+      },
+      "model": "nova:item/fluid_progress/right_left/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10905
+      },
+      "model": "nova:item/fluid_progress/right_left/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10906
+      },
+      "model": "nova:item/fluid_progress/right_left/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10907
+      },
+      "model": "nova:item/fluid_progress/right_left/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10908
+      },
+      "model": "nova:item/fluid_progress/right_left/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10909
+      },
+      "model": "nova:item/fluid_progress/right_left/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10910
+      },
+      "model": "nova:item/fluid_progress/right_left/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10911
+      },
+      "model": "nova:item/fluid_progress/right_left/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10912
+      },
+      "model": "nova:item/fluid_progress/right_left/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10913
+      },
+      "model": "nova:item/fluid_progress/right_left/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10914
+      },
+      "model": "nova:item/fluid_progress/right_left/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10915
+      },
+      "model": "nova:item/fluid_progress/right_left/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10916
+      },
+      "model": "nova:item/fluid_progress/right_left/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11000
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11001
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11002
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11003
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11004
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11005
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11006
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11007
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11008
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11009
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11010
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11011
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11012
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11013
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11014
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11015
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11016
+      },
+      "model": "nova:item/icon/fluid_progress/left_right/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11100
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11101
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11102
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11103
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11104
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11105
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11106
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11107
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11108
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11109
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11110
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11111
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11112
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11113
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11114
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11115
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11116
+      },
+      "model": "nova:item/icon/fluid_progress/right_left/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11200
+      },
+      "model": "nova:item/icon/bar_blue/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11201
+      },
+      "model": "nova:item/icon/bar_blue/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11202
+      },
+      "model": "nova:item/icon/bar_blue/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11203
+      },
+      "model": "nova:item/icon/bar_blue/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11204
+      },
+      "model": "nova:item/icon/bar_blue/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11205
+      },
+      "model": "nova:item/icon/bar_blue/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11206
+      },
+      "model": "nova:item/icon/bar_blue/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11207
+      },
+      "model": "nova:item/icon/bar_blue/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11208
+      },
+      "model": "nova:item/icon/bar_blue/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11209
+      },
+      "model": "nova:item/icon/bar_blue/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11210
+      },
+      "model": "nova:item/icon/bar_blue/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11211
+      },
+      "model": "nova:item/icon/bar_blue/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11212
+      },
+      "model": "nova:item/icon/bar_blue/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11213
+      },
+      "model": "nova:item/icon/bar_blue/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11214
+      },
+      "model": "nova:item/icon/bar_blue/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11215
+      },
+      "model": "nova:item/icon/bar_blue/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11216
+      },
+      "model": "nova:item/icon/bar_blue/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11300
+      },
+      "model": "nova:item/icon/bar_orange/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11301
+      },
+      "model": "nova:item/icon/bar_orange/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11302
+      },
+      "model": "nova:item/icon/bar_orange/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11303
+      },
+      "model": "nova:item/icon/bar_orange/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11304
+      },
+      "model": "nova:item/icon/bar_orange/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11305
+      },
+      "model": "nova:item/icon/bar_orange/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11306
+      },
+      "model": "nova:item/icon/bar_orange/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11307
+      },
+      "model": "nova:item/icon/bar_orange/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11308
+      },
+      "model": "nova:item/icon/bar_orange/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11309
+      },
+      "model": "nova:item/icon/bar_orange/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11310
+      },
+      "model": "nova:item/icon/bar_orange/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11311
+      },
+      "model": "nova:item/icon/bar_orange/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11312
+      },
+      "model": "nova:item/icon/bar_orange/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11313
+      },
+      "model": "nova:item/icon/bar_orange/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11314
+      },
+      "model": "nova:item/icon/bar_orange/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11315
+      },
+      "model": "nova:item/icon/bar_orange/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11316
+      },
+      "model": "nova:item/icon/bar_orange/16"
     },
     {
       "predicate": {
