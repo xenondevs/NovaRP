@@ -44,6 +44,8 @@
   "block.nova.cobblestone_generator": "圆石生成器",
   "block.nova.pump": "泵",
   "block.nova.fluid_infuser": "Fluid Infuser",
+  "block.nova.freezer": "Freezer",
+  "block.nova.sprinkler": "Sprinkler",
   "item.nova.iron_plate": "铁板",
   "item.nova.gold_plate": "金板",
   "item.nova.diamond_plate": "钻石板",
