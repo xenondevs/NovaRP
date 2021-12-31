@@ -197,6 +197,9 @@
   "menu.nova.pump.pump_mode": "Mode: Pump Liquids",
   "menu.nova.fluid_infuser.mode.insert": "Insert fluids into items",
   "menu.nova.fluid_infuser.mode.extract": "Extract fluids from items",
+  "menu.nova.freezer.mode.ice": "Mode: Freeze to Ice",
+  "menu.nova.freezer.mode.packed_ice": "Mode: Freeze to Packed Ice",
+  "menu.nova.freezer.mode.blue_ice": "Mode: Freeze to Blue Ice",
 
   "command.nova.no-players": "No players could be found.",
   "command.nova.no-item-in-hand": "Hold an item in your hand and try again.",
