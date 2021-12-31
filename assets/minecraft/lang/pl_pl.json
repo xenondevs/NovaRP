@@ -44,6 +44,8 @@
   "block.nova.cobblestone_generator": "Cobblestone Generator",
   "block.nova.pump": "Pump",
   "block.nova.fluid_infuser": "Fluid Infuser",
+  "block.nova.freezer": "Freezer",
+  "block.nova.sprinkler": "Sprinkler",
   "item.nova.iron_plate": "Żelazna Płytka",
   "item.nova.gold_plate": "Złota płytka",
   "item.nova.diamond_plate": "Diamentowa płytka",
