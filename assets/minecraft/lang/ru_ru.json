@@ -44,6 +44,8 @@
   "block.nova.cobblestone_generator": "Генератор булыжника",
   "block.nova.pump": "Насос",
   "block.nova.fluid_infuser": "Fluid Infuser",
+  "block.nova.freezer": "Freezer",
+  "block.nova.sprinkler": "Sprinkler",
   "item.nova.iron_plate": "Железная пластина",
   "item.nova.gold_plate": "Золотая пластина",
   "item.nova.diamond_plate": "Алмазная пластина",
