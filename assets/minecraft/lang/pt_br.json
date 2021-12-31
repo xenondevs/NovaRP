@@ -44,6 +44,8 @@
   "block.nova.cobblestone_generator": "Gerador de pedregulho",
   "block.nova.pump": "Pump",
   "block.nova.fluid_infuser": "Fluid Infuser",
+  "block.nova.freezer": "Freezer",
+  "block.nova.sprinkler": "Sprinkler",
   "item.nova.iron_plate": "Placa de Ferro",
   "item.nova.gold_plate": "Placa de Ouro",
   "item.nova.diamond_plate": "Placa de Diamante",
