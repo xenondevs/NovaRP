@@ -1,256 +1,262 @@
 {
-   "parent": "item/generated",
-   "textures": {
-     "layer0": "item/barrier"
-   },
-   "overrides": [
-     {
-       "predicate": {
-         "custom_model_data": -1
-       },
-       "model": "nova:empty"
-     },
-     {
-       "predicate": {
-         "custom_model_data": 0
-       },
-       "model": "item/barrier"
-     },
-     {
-       "predicate": {
-         "custom_model_data": 1
-       },
-       "model": "nova:block/furnace_generator_off"
-     },
-     {
-       "predicate": {
-         "custom_model_data": 2
-       },
-       "model": "nova:block/mechanical_press"
-     },
-     {
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/barrier"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": -1
+      },
+      "model": "nova:empty"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "item/barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "nova:block/furnace_generator_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "nova:block/mechanical_press"
+    },
+    {
       "predicate": {
         "custom_model_data": 3
       },
       "model": "nova:block/power_cell/basic"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 4
       },
       "model": "nova:block/power_cell/advanced"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 5
       },
       "model": "nova:block/power_cell/elite"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 6
       },
       "model": "nova:block/power_cell/ultimate"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 7
       },
       "model": "nova:block/power_cell/creative"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 8
       },
       "model": "nova:block/pulverizer"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 9
       },
       "model": "nova:block/solar_panel"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 10
       },
       "model": "nova:block/quarry"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 11
       },
       "model": "nova:block/electrical_furnace_off"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 12
       },
       "model": "nova:block/chunk_loader"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 13
       },
       "model": "nova:block/block_breaker"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 14
       },
       "model": "nova:block/block_placer"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 15
       },
       "model": "nova:block/storage_unit"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 16
       },
       "model": "nova:block/charger"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 17
       },
       "model": "nova:block/mob_killer"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 18
       },
       "model": "nova:block/vacuum_chest"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 19
       },
       "model": "nova:block/breeder"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 20
       },
       "model": "nova:block/mob_duplicator"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 21
       },
       "model": "nova:block/planter"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 22
       },
       "model": "nova:block/harvester"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 23
       },
       "model": "nova:block/fertilizer"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 24
       },
       "model": "nova:block/wireless_charger"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 25
       },
       "model": "nova:block/auto_fisher"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 26
       },
       "model": "nova:block/lightning_exchanger"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 27
       },
       "model": "nova:block/tree_factory"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 28
       },
       "model": "nova:block/trash_can"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 29
       },
       "model": "nova:block/fluid_tank/basic"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 30
       },
       "model": "nova:block/fluid_tank/advanced"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 31
       },
       "model": "nova:block/fluid_tank/elite"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 32
       },
       "model": "nova:block/fluid_tank/ultimate"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 33
       },
       "model": "nova:block/fluid_tank/creative"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 34
       },
       "model": "nova:block/infinite_water_source"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 35
       },
       "model": "nova:block/pump"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 36
       },
       "model": "nova:block/cobblestone_generator"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 37
       },
       "model": "nova:block/fluid_infuser"
-     },
-     {
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "nova:block/freezer"
+    },
+    {
       "predicate": {
         "custom_model_data": 39
       },
       "model": "nova:block/sprinkler"
-     },
-     {
+    },
+    {
       "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
     },
-     {
+    {
       "predicate": {
         "custom_model_data": 5051
       },
@@ -328,5 +334,5 @@
       },
       "model": "nova:block/lava_generator_on"
     }
-   ]
- }
+  ]
+}
