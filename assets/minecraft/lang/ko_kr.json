@@ -44,6 +44,8 @@
   "block.nova.cobblestone_generator": "Cobblestone Generator",
   "block.nova.pump": "Pump",
   "block.nova.fluid_infuser": "Fluid Infuser",
+  "block.nova.freezer": "Freezer",
+  "block.nova.sprinkler": "Sprinkler",
   "item.nova.iron_plate": "철판",
   "item.nova.gold_plate": "금판",
   "item.nova.diamond_plate": "다이아몬드 판",
