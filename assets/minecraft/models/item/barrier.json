@@ -240,6 +240,12 @@
      },
      {
       "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "nova:block/sprinkler"
+     },
+     {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
