@@ -44,6 +44,8 @@
   "block.nova.cobblestone_generator": "Kırıktaş Jeneratorü ",
   "block.nova.pump": "Pompa",
   "block.nova.fluid_infuser": "Fluid Infuser",
+  "block.nova.freezer": "Freezer",
+  "block.nova.sprinkler": "Sprinkler",
   "item.nova.iron_plate": "Demir Plaka",
   "item.nova.gold_plate": "Altın Plaka",
   "item.nova.diamond_plate": "Elmas Plaka",
