@@ -558,6 +558,24 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9140
+      },
+      "model": "nova:item/button/ice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9141
+      },
+      "model": "nova:item/button/packed_ice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9142
+      },
+      "model": "nova:item/button/blue_ice"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9300
       },
       "model": "nova:item/icon/invisible"
