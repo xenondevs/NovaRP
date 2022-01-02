@@ -252,6 +252,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "nova:block/fluid_storage_unit"
+    },
+    {
+      "predicate": {
         "custom_model_data": 5050
       },
       "model": "nova:block/wind_turbine/wind_turbine_item"
