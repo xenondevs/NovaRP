@@ -1,0 +1,11 @@
+{
+	"parent": "nova:block/block_all",
+	"textures": {
+		"north": "nova:block/fluid_infuser_front",
+		"east": "nova:block/fluid_infuser_side_1",
+		"south": "nova:block/machine_side",
+		"west": "nova:block/fluid_infuser_side_2",
+		"up": "nova:block/fluid_infuser_top",
+		"down": "nova:block/machine_top"
+	}
+}

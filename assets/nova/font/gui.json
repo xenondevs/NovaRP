@@ -1,9 +1,18 @@
 {
     "providers": [
         {
+            "file": "nova:gui/empty.png",
+            "chars": [
+                "\uF000"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
             "file": "nova:gui/crafting.png",
             "chars": [
-                "0"
+                "\uF001"
             ],
             "height": 135,
             "ascent": 13,
@@ -12,25 +21,7 @@
         {
             "file": "nova:gui/furnace.png",
             "chars": [
-                "1"
-            ],
-            "height": 135,
-            "ascent": 13,
-            "type": "bitmap"
-        },
-        {
-            "file": "nova:gui/pulverizer.png",
-            "chars": [
-                "2"
-            ],
-            "height": 135,
-            "ascent": 13,
-            "type": "bitmap"
-        },
-        {
-            "file": "nova:gui/press.png",
-            "chars": [
-                "3"
+                "\uF002"
             ],
             "height": 135,
             "ascent": 13,
@@ -39,16 +30,43 @@
         {
             "file": "nova:gui/conversion.png",
             "chars": [
-                "4"
+                "\uF003"
             ],
             "height": 135,
             "ascent": 13,
             "type": "bitmap"
         },
         {
-            "file": "nova:gui/empty.png",
+            "file": "nova:gui/smithing.png",
             "chars": [
-                "5"
+                "\uF004"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/pulverizer.png",
+            "chars": [
+                "\uF005"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/press.png",
+            "chars": [
+                "\uF006"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/fluid_infuser.png",
+            "chars": [
+                "\uF007"
             ],
             "height": 135,
             "ascent": 13,
@@ -57,9 +75,54 @@
         {
             "file": "nova:gui/search.png",
             "chars": [
-                "6"
+                "\uF008"
             ],
             "height": 70,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/0.png",
+            "chars": [
+                "\uF100"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/1.png",
+            "chars": [
+                "\uF101"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/2.png",
+            "chars": [
+                "\uF102"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/3.png",
+            "chars": [
+                "\uF103"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/creative/4.png",
+            "chars": [
+                "\uF104"
+            ],
+            "height": 135,
             "ascent": 13,
             "type": "bitmap"
         }
