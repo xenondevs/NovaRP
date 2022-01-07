@@ -576,6 +576,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9143
+      },
+      "model": "nova:item/button/pump_pump"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9144
+      },
+      "model": "nova:item/button/pump_replace"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9300
       },
       "model": "nova:item/icon/invisible"
@@ -602,13 +614,13 @@
       "predicate": {
         "custom_model_data": 9304
       },
-      "model": "nova:item/button/pump_pump_icon"
+      "model": "nova:item/icon/plus"
     },
     {
       "predicate": {
         "custom_model_data": 9305
       },
-      "model": "nova:item/button/pump_replace_icon"
+      "model": "nova:item/icon/minus"
     },
     {
       "predicate": {
@@ -717,6 +729,12 @@
         "custom_model_data": 9507
       },
       "model": "nova:item/placeholder/trash_can"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9508
+      },
+      "model": "nova:item/placeholder/bottle"
     },
     {
       "predicate": {
@@ -2085,6 +2103,108 @@
         "custom_model_data": 11316
       },
       "model": "nova:item/icon/bar_orange/16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11400
+      },
+      "model": "nova:item/brew_progress/0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11401
+      },
+      "model": "nova:item/brew_progress/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11402
+      },
+      "model": "nova:item/brew_progress/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11403
+      },
+      "model": "nova:item/brew_progress/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11404
+      },
+      "model": "nova:item/brew_progress/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11405
+      },
+      "model": "nova:item/brew_progress/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11406
+      },
+      "model": "nova:item/brew_progress/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11407
+      },
+      "model": "nova:item/brew_progress/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11408
+      },
+      "model": "nova:item/brew_progress/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11409
+      },
+      "model": "nova:item/brew_progress/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11410
+      },
+      "model": "nova:item/brew_progress/10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11411
+      },
+      "model": "nova:item/brew_progress/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11412
+      },
+      "model": "nova:item/brew_progress/12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11413
+      },
+      "model": "nova:item/brew_progress/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11414
+      },
+      "model": "nova:item/brew_progress/14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11415
+      },
+      "model": "nova:item/brew_progress/15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11416
+      },
+      "model": "nova:item/brew_progress/16"
     },
     {
       "predicate": {

@@ -1,6 +1,6 @@
 {
   "parent": "nova:item/icon_template",
   "textures": {
-    "1": "nova:item/button/pump_replace_icon"
+    "1": "nova:item/button/pump_replace"
   }
 }

@@ -152,6 +152,24 @@
             "height": 135,
             "ascent": 13,
             "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/mechanical_brewing_stand.png",
+            "chars": [
+                "\uF200"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/configure_potion.png",
+            "chars": [
+                "\uF201"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
         }
     ]
 }
