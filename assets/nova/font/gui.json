@@ -154,7 +154,7 @@
             "type": "bitmap"
         },
         {
-            "file": "nova:gui/mechanical_brewing_stand.png",
+            "file": "nova:gui/electric_brewing_stand.png",
             "chars": [
                 "\uF200"
             ],
