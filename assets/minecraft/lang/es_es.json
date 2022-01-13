@@ -224,7 +224,7 @@
   "menu.nova.electric_brewing_stand.configure_potion": "Configure Potion",
   "menu.nova.electric_brewing_stand.pick_effect": "Pick Effect",
   "menu.nova.electric_brewing_stand.configured_potion": "Configured Potion",
-  "menu.nova.electric_brewing_stand.ingredients": "Ingredients:",
+  "menu.nova.electric_brewing_stand.ingredients": "Ingredientes:",
   "menu.nova.potion_configurator.undefined_effect": "Haga clic para establecer un efecto",
   "menu.nova.potion_configurator.effect": "Efecto:",
   "menu.nova.potion_configurator.add_effect": "Añadir Efecto",
