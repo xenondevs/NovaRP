@@ -170,6 +170,15 @@
             "height": 135,
             "ascent": 13,
             "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/color_picker.png",
+            "chars": [
+                "\uF202"
+            ],
+            "height": 75,
+            "ascent": 13,
+            "type": "bitmap"
         }
     ]
 }

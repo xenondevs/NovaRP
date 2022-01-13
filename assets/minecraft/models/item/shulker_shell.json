@@ -624,6 +624,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 9306
+      },
+      "model": "nova:item/icon/color_picker"
+    },
+    {
+      "predicate": {
         "custom_model_data": 9402
       },
       "model": "nova:item/icon/upgrade/speed"
