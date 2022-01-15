@@ -73,9 +73,36 @@
             "type": "bitmap"
         },
         {
-            "file": "nova:gui/search.png",
+            "file": "nova:gui/star_collector.png",
             "chars": [
                 "\uF008"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/cobblestone_generator.png",
+            "chars": [
+                "\uF009"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/freezer.png",
+            "chars": [
+                "\uF00A"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/search.png",
+            "chars": [
+                "\uF00B"
             ],
             "height": 70,
             "ascent": 13,
@@ -123,6 +150,33 @@
                 "\uF104"
             ],
             "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/electric_brewing_stand.png",
+            "chars": [
+                "\uF200"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/configure_potion.png",
+            "chars": [
+                "\uF201"
+            ],
+            "height": 135,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "nova:gui/color_picker.png",
+            "chars": [
+                "\uF202"
+            ],
+            "height": 75,
             "ascent": 13,
             "type": "bitmap"
         }
